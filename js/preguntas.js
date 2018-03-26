@@ -5,7 +5,7 @@ window.onload = function(){
     myFunction(this);
     	}
 	};
-	xhttp.open("GET", "books.xml", true);
+	xhttp.open("GET", "../xml/preguntas.xml", true);
 	xhttp.send();
 
 	function myFunction(xml) {
