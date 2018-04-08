@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preguntes>
+ <pregunta id='p1'>
+  <tipus>text</tipus>
+  <text>¿Cúal es el la estrella del sistema solar?</text>
+  <resposta>Sol</resposta>
+ </pregunta>
+ <pregunta id='p2'>
+  <tipus>text</tipus>
+  <text>¿cúal es el planeta más grande del sistema solar</text>
+  <resposta>Júpiter</resposta>
+ </pregunta>
+ <pregunta id='p3'>
+  <tipus>text</tipus>
+  <text>nuestro satélite natural es ....</text>
+  <opcio>la luna</opcio>
+  <opcio>la estacion internacional</opcio>
+  <opcio></opcio>
+  <resposta>2</resposta>
+ </pregunta>
+</preguntes>
+ <pregunta id='p4'>
+  <tipus>select</tipus>
+  <text>¿cúal es el planeta más alejado del sol?(dentro del sistema solar)</text>
+  <opcio>Pluton</opcio>
+  <opcio>Mercurio</opcio> 
+  <opcio>Neptuno</opcio>
+  <resposta>3</resposta>
+ </pregunta>
+ <pregunta id='p5'>
+  <tipus>select</tipus>
+  <text>El movimiento que hace un planeta alrededor del sol se llama...</text>
+  <opcio>traslación</opcio>
+  <opcio>rotación</opcio> 
+  <opcio>vueltas</opcio>
+  <resposta>1</resposta> 
+ </pregunta>
+ <pregunta>
+  <pregunta id='p6'>
+  <tipus>select</tipus>
+  <text>¿Cuantos planetas tiene el sisteam solar?</text>
+  <opcio>7</opcio>
+  <opcio>8</opcio>
+  <opcio>9</opcio>
+  <resposta>2</resposta>
+ </pregunta>
+</preguntes>
+<!-- 
+   <pregunta id='p7'>
+  <tipus>select</tipus>
+  <text>¿Cuantos planetas tiene el sisteam solar?</text>
+  <opcio>7</opcio>
+  <opcio>8</opcio>
+  <opcio>9</opcio>
+  <resposta>2</resposta>
+ </pregunta>
+</preguntes>
+
+  <pregunta id='p8'>
+  <tipus>select</tipus>
+  <text>¿Cuantos planetas tiene el sisteam solar?</text>
+  <opcio>7</opcio>
+  <opcio>8</opcio>
+  <opcio>9</opcio>
+  <resposta>2</resposta>
+ </pregunta>
+</preguntes>
+
+  <pregunta id='p9'>
+  <tipus>select</tipus>
+  <text>¿Cuantos planetas tiene el sisteam solar?</text>
+  <opcio>7</opcio>
+  <opcio>8</opcio>
+  <opcio>9</opcio>
+  <resposta>2</resposta>
+ </pregunta>
+</preguntes>
+
+  <pregunta id='p10'>
+  <tipus>select</tipus>
+  <text>¿Cuantos planetas tiene el sisteam solar?</text>
+  <opcio>7</opcio>
+  <opcio>8</opcio>
+  <opcio>9</opcio>
+  <resposta>2</resposta>
+ </pregunta>
+</preguntes>-->
