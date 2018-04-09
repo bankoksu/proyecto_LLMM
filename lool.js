@@ -1,4 +1,42 @@
-var xmlDoc;
+/*
+window.onload = loadXMLDoc();
+
+
+function loadXMLDoc() {
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            getPreguntas(this);
+        }
+    }
+    xmlhttp.open("GET", "preguntas.xml", true);
+    xmlhttp.send();
+}
+
+function getPreguntas(xml) {
+    var j = 0;
+    var contador = 1;
+    var ask = "";
+    var xmlDoc = xml.responseXML;
+    var x = xmlDoc.getElementsByTagName("pregunta");
+    var y = xmlDoc.getElementsByTagName("respuesta");
+    
+    for (var i = 0; i <= x.length - 1; i++) {
+        ask += "<strong>" + contador + "-" + "</strong>" + " <Strong>Pregunta. </Strong>" + x[i].childNodes[0].nodeValue + "<br>";
+        for (var temp = 0; temp < 4; temp++) {
+            ask += "<strong> Respuesta: </strong>" + y[j].childNodes[0].nodeValue + "<br>";
+            j++;
+        }
+        contador ++;
+    }
+    
+    document.getElementById("demo").innerHTML = ask;
+}
+
+*/
+
+
+/*var xmlDoc;
 var numPreguntas = 0;
 
 window.onload = function () {
@@ -21,7 +59,7 @@ function leerXML() {
         }
     };
     xhttp.open("GET", "preguntas.xml", true);
-    xhttp.send();
+    xhttp.send();*/
 
 }
 
