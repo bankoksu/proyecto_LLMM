@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <preguntes>
  <pregunta id='p1'>
   <tipus>text</tipus>
@@ -42,44 +42,36 @@
   <opcio>9</opcio>
   <resposta>2</resposta>
  </pregunta>
-</preguntes>
-<!-- 
-   <pregunta id='p7'>
+ <pregunta id='p7'>
   <tipus>select</tipus>
-  <text>¿Cuantos planetas tiene el sisteam solar?</text>
-  <opcio>7</opcio>
-  <opcio>8</opcio>
-  <opcio>9</opcio>
-  <resposta>2</resposta>
+  <text>El planeta más brillante que se puede ver en el cielo es ...</text>
+  <opcio>Júpiter</opcio>
+  <opcio>marte</opcio>
+  <opcio>Venus</opcio>
+  <resposta>3</resposta>
  </pregunta>
-
-
   <pregunta id='p8'>
   <tipus>select</tipus>
-  <text>¿Cuantos planetas tiene el sisteam solar?</text>
-  <opcio>7</opcio>
-  <opcio>8</opcio>
-  <opcio>9</opcio>
-  <resposta>2</resposta>
+  <text>¿qué tipo de astro es Plutón?</text>
+  <opcio>un planeta enano</opcio>
+  <opcio>un planeta</opcio>
+  <opcio>las dos anteriores</opcio>
+  <resposta>1</resposta>
  </pregunta>
-
-
   <pregunta id='p9'>
   <tipus>select</tipus>
-  <text>¿Cuantos planetas tiene el sisteam solar?</text>
-  <opcio>7</opcio>
-  <opcio>8</opcio>
-  <opcio>9</opcio>
-  <resposta>2</resposta>
+  <text>¿qué es Encélado?</text>
+  <opcio>una luna</opcio>
+  <opcio>un asteroide</opcio>
+  <opcio>un cometa</opcio>
+  <resposta>1</resposta>
  </pregunta>
-
-
   <pregunta id='p10'>
   <tipus>select</tipus>
-  <text>¿Cuantos planetas tiene el sisteam solar?</text>
-  <opcio>7</opcio>
-  <opcio>8</opcio>
-  <opcio>9</opcio>
+  <text>¿En cuál de estos astros puede haber agua líquida y vida bajo la superficie?</text>
+  <opcio>La luna Titán de Saturno</opcio>
+  <opcio>La luna Europa de Júpiter</opcio>
+  <opcio>El planeta Venus</opcio>
   <resposta>2</resposta>
  </pregunta>
--->
+</preguntes>

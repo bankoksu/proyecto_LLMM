@@ -249,6 +249,6 @@ function checkText(x) {
         console.log(x+"correcto");
     }
     else {
-        console.log(x+"nope");
+        console.log(x+"incorrecto");
     }
 }
