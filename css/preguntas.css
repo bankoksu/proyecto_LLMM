@@ -4,6 +4,11 @@
 	/*border-color: black
 	border-box: 1px 1px;*/
 }
+
+#header {
+	display: inline;
+}
+
 #barup {
 	background-color: yellow;
 }
@@ -70,11 +75,6 @@ input, textarea {
 
     /* Para armonizar el look&feel del borde en los campos de texto */
     border: 1px solid #999;
-}
-
-input:focus, textarea:focus {
-    /* Para dar un pequeño destaque en elementos activos*/
-    border-color: #000;
 }
 
 textarea {

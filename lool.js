@@ -180,10 +180,10 @@ function imprimirBoton(){
 
 function checkPreguntas() {
     try{
-    var numPreg = xmlDoc.getElementsByTagName('pregunta').length;
+    var numPreg = xmlDoc.getElementsByTagName('pregun').length;
 
     for (var i = 0; i < numPreg; i++) {
-        var tipo = xmlDoc.getElementsByTagName('pregunta')[i].getElementsByTagName("tipus")[0].innerHTML;
+        var tipo = xmlDoc.getElementsByTagName('pregun')[i].getElementsByTagName("tipus")[0].innerHTML;
 
         if (tipo === "select") {
             checkRadio(i);
@@ -203,19 +203,19 @@ function checkPreguntas() {
 }
 
 function checkRadio(x) {
-    var correcta = xmlDoc.getElementById("lol"+x).getElementsByTagName("resposta")[0].innerHTML;
+    var correcta = xmlDoc.getElementById("pregun"+x).getElementsByTagName("resposta")[0].innerHTML;
     var opcions = document.getElementsByName(x);
 
     if (opcions[correcta].checked) {
         console.log(x+"correcto");
     }
     else {
-        console.log(x+"nope");
+        console.log(x+"incorrecto");
     }
 }
 
 function checkCheckbox(x) {
-    var correctes = xmlDoc.getElementById("lol"+x).getElementsByTagName("resposta")[0].innerHTML.split(",");
+    var correctes = xmlDoc.getElementById("pregun"+x).getElementsByTagName("resposta")[0].innerHTML.split(",");
     var opcions = document.getElementsByName(x);
     var correcta = true;
     for(i=0; i<correctes.length; i++){
@@ -235,14 +235,14 @@ function checkCheckbox(x) {
         console.log(x+"correcto");
     }
     else {
-        console.log(x+"nope");
+        console.log(x+"incorrecto");
     }
 }
 
 function checkText(x) {
 
     var userAns = document.getElementById("text"+x).value;
-    var resp = xmlDoc.getElementsByTagName("pregunta")[x].getElementsByTagName("resposta")[0].innerHTML;
+    var resp = xmlDoc.getElementsByTagName("pregun")[x].getElementsByTagName("resposta")[0].innerHTML;
 
 
     if (resp === userAns) {
