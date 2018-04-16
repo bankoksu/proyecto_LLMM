@@ -11,14 +11,13 @@
   <resposta>Júpiter</resposta>
  </pregunta>
  <pregunta id='p3'>
-  <tipus>text</tipus>
+  <tipus>select</tipus>
   <text>nuestro satélite natural es ....</text>
   <opcio>la luna</opcio>
   <opcio>la estacion internacional</opcio>
-  <opcio></opcio>
-  <resposta>2</resposta>
+  <opcio>1</opcio>
+  <resposta></resposta>
  </pregunta>
-</preguntes>
  <pregunta id='p4'>
   <tipus>select</tipus>
   <text>¿cúal es el planeta más alejado del sol?(dentro del sistema solar)</text>
@@ -35,7 +34,6 @@
   <opcio>vueltas</opcio>
   <resposta>1</resposta> 
  </pregunta>
- <pregunta>
   <pregunta id='p6'>
   <tipus>select</tipus>
   <text>¿Cuantos planetas tiene el sisteam solar?</text>
@@ -54,7 +52,7 @@
   <opcio>9</opcio>
   <resposta>2</resposta>
  </pregunta>
-</preguntes>
+
 
   <pregunta id='p8'>
   <tipus>select</tipus>
@@ -64,7 +62,7 @@
   <opcio>9</opcio>
   <resposta>2</resposta>
  </pregunta>
-</preguntes>
+
 
   <pregunta id='p9'>
   <tipus>select</tipus>
@@ -74,7 +72,7 @@
   <opcio>9</opcio>
   <resposta>2</resposta>
  </pregunta>
-</preguntes>
+
 
   <pregunta id='p10'>
   <tipus>select</tipus>
@@ -84,4 +82,4 @@
   <opcio>9</opcio>
   <resposta>2</resposta>
  </pregunta>
-</preguntes>-->
+-->

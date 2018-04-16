@@ -1,12 +1,14 @@
 /*
-window.onload = loadXMLDoc();
+window.onload = loadXMLDoc(){
+
+}
 
 
 function loadXMLDoc() {
     var xmlhttp = new XMLHttpRequest();
     xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
-            getPreguntas(this);
+                getPreguntas(this);
         }
     }
     xmlhttp.open("GET", "preguntas.xml", true);
@@ -27,16 +29,16 @@ function getPreguntas(xml) {
             ask += "<strong> Respuesta: </strong>" + y[j].childNodes[0].nodeValue + "<br>";
             j++;
         }
-        contador ++;
+            contador ++;
     }
     
-    document.getElementById("demo").innerHTML = ask;
+        document.getElementById("demo").innerHTML = ask;
 }
 
 */
 
 
-/*var xmlDoc;
+var xmlDoc;
 var numPreguntas = 0;
 
 window.onload = function () {
@@ -58,8 +60,8 @@ function leerXML() {
         else{
         }
     };
-    xhttp.open("GET", "preguntas.xml", true);
-    xhttp.send();*/
+    xhttp.open("GET", "./preguntas.xml", true);
+    xhttp.send();
 
 }
 
@@ -115,6 +117,7 @@ function crearRadio(i) {
         element.appendChild(label);
     }
 }
+
 function crearCheck(i) {
     var numSol = xmlDoc.getElementsByTagName('pregunta')[i].getElementsByTagName('opcio').length;
     var element = document.getElementById("pregun");
@@ -142,6 +145,7 @@ function crearCheck(i) {
         element.appendChild(label);
     }
 }
+
 function crearText(i) {
     var numSol = xmlDoc.getElementsByTagName('pregunta')[i].getElementsByTagName('opcio').length;
     var element = document.getElementById("pregun");
@@ -209,6 +213,7 @@ function checkRadio(x) {
         console.log(x+"nope");
     }
 }
+
 function checkCheckbox(x) {
     var correctes = xmlDoc.getElementById("lol"+x).getElementsByTagName("resposta")[0].innerHTML.split(",");
     var opcions = document.getElementsByName(x);
@@ -233,6 +238,7 @@ function checkCheckbox(x) {
         console.log(x+"nope");
     }
 }
+
 function checkText(x) {
 
     var userAns = document.getElementById("text"+x).value;
