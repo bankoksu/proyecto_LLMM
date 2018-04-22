@@ -198,7 +198,7 @@ function checkPreguntas() {
     }
     }
     catch{
-        alert("Debes rellenar todas las preguntas");
+        alert("faltan preguntas por responder");
     }
 }
 
