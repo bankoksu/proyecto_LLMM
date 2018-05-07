@@ -1,0 +1,129 @@
+*{
+	box-sizing: border-box;
+	background-color: #e6e6e6;
+	/*border-color: black
+	border-box: 1px 1px;*/
+}
+
+form {
+    
+    margin: 0 auto;
+    width: 50%;
+    display: block;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+#imagen {
+    margin-left: 20%;
+}
+#titulo {
+    margin-left: 20%;
+}
+
+#barup{
+    margin-left: : 20%;
+    margin-bottom: px;
+}
+#barup li {
+	display:inline;
+    margin-left: 20px;
+
+}
+
+
+#barup li a{
+    display: inline;
+    color: black;
+	text-decoration: none;
+	width: 10%;
+}
+
+#resultados{
+    display: none;
+    background-color: yellow;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+    /*For mobile phones: */
+   /* [class*="col-"]*/ {	
+    width: 100%;
+    }
+
+
+
+#resultados {
+    display: none;
+}
+/*#imagen{
+    display: none;
+}*/
+
+#barup{
+    display:none;
+}
+/*.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}*/
+
+form {
+    
+    margin: 0 auto;
+    width: 400px;
+    display: block;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+
+form div + div {
+    margin-top: 1em;
+    margin-bottom: 2px;
+}
+
+label {
+
+    display: inline-block;
+    margin-bottom: 2px;
+    text-align: left;
+}
+
+textarea {
+    /* Para asegurarse de que todos los campos de texto tienen las mismas propiedades de fuente
+       Por defecto, las areas de texto tienen una fuente con monospace */
+    font: 1em sans-serif;
+    display: block;
+    /* Para darle el mismo tamaño a todos los campos de texto */
+    width: 200px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    /* Para armonizar el look&feel del borde en los campos de texto */
+    border: 1px solid #999;
+}
+
+textarea {
+    /* Para alinear campos de texto multilínea con sus labels */
+    vertical-align: top;
+    display: block;
+    /* Para dar suficiente espacio para escribir texto */
+    height: 5em;
+
+    /* Para permitir a los usuarios cambiar el tamaño de cualquier textarea verticalmente
+        No funciona en todos los navegadores */
+    resize: vertical;
+}
+
+}
