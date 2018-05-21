@@ -1,5 +1,11 @@
 *{
 	width: 10%;
 	background-color: grey;
-	
+
+}
+
+#header{
+	display: inline;
+	background-color: green;
+	text-decoration: none;
 }
