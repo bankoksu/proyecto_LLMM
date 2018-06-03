@@ -2,651 +2,60 @@
   "page": {
     "items": [
       {
-        "uri": "http://www.rtve.es/api/noticias/1737443",
-        "htmlUrl": "http://www.rtve.es/rtve/20180521/angel-garrido-presidente-comunidad-madrid-este-martes-mananas-rne/1737443.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737443",
-        "id": "1737443",
-        "language": "es",
         "longTitle": "Ángel Garrido, presidente de la Comunidad de Madrid, este martes en 'Las mañanas de RNE'",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/40070",
-        "popularity": "0.0",
-        "popHistoric": "8.0",
-        "numVisits": "0",
-        "publicationDate": "21-05-2018 16:16:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 16:16:13",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737443/breadcrumb",
-        "imageSEO": null,
-        "publicationDateTimestamp": 1526912160000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": null,
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": false
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>A partir de las 08:30, en Radio Nacional y RTVE.es</li>\n</ul>\n",
-        "frontSummary": null,
         "text": "<p><strong>&lsquo;</strong><a href=\"http://www.rtve.es/radio/las-mananas-de-rne/\"><strong>Las ma&ntilde;anas de RNE</strong></a><strong>&rsquo;&#160;</strong>tendr&aacute; como invitado al&#160;<strong>presidente de la Comunidad de Madrid</strong>, a partir de las 08:30 horas en&#160;<strong>Radio Nacional y RTVE.es</strong>.</p>\n\n<p style=\"margin-top:12.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:0cm;text-align:justify;\"><strong>&Aacute;ngel Garrido&#160;</strong>estar&aacute; en los micr&oacute;fonos de&#160;<strong>RNE&#160;</strong>y charlar&aacute; sobre diversos aspectos de la actualidad con&#160;<strong>Alfredo Men&eacute;ndez</strong>, director y presentador del programa.</p>\n\n<p style=\"margin-top:12.0pt;text-align:justify;\">La entrevista se podr&aacute; escuchar a partir de las 08:30 horas en&#160;<strong>Radio Nacional</strong>&#160;y a trav&eacute;s de la web de&#160;<strong>RTVE</strong>.</p>\n\n<p style=\"text-align:justify;\">Los periodistas&#160;<strong>Ferm&iacute;n Bocos, Ricardo Mart&iacute;n, Antonio Papell&#160;</strong>y&#160;<strong>Justino</strong>&#160;<strong>Sinova&#160;</strong>debatir&aacute;n sobre los temas del d&iacute;a en el tiempo de tertulia.</p>\n",
-        "refreshSeconds": 0,
-        "sign": {
-          "ctvId": null,
-          "name": null,
-          "firma": "PRENSA RTVE",
-          "photo": null,
-          "twitter": null,
-          "facebook": null,
-          "googlePlus": null,
-          "publicationDate": null,
-          "numPublications": null
+
         },
-        "mainCategory": "RTVE/Comunicación RTVE/Notas de prensa RNE/Notas de prensa Radio Nacional",
-        "mainCategoryLang": "RTVE/Comunicación RTVE/Notas de prensa RNE/Notas de prensa Radio Nacional",
-        "otherTopicsName": [
-          "RTVE/Comunicación RTVE",
-          "RTVE/Comunicación RTVE/Temáticas/Notas de prensa Informativos"
-        ],
-        "otherTopicsRef": "http://www.rtve.es/api/noticias/1737443/tematicas",
-        "newsRelatedRef": "http://www.rtve.es/api/noticias/1737443/noticias/relacionados",
-        "newsEspecialesRef": "http://www.rtve.es/api/noticias/1737443/noticias/especiales",
-        "multimediaRelatedRef": "http://www.rtve.es/api/noticias/1737443/multimedias/relacionados",
-        "multimediaTotemRef": "http://www.rtve.es/api/noticias/1737443/multimedias/totem",
-        "multimediaDestacadoRef": "http://www.rtve.es/api/noticias/1737443/multimedias/destacado",
-        "links": {
-          "galeriasRelacionadasRef": "http://www.rtve.es/api/noticias/1737443/galerias/relacionadas",
-          "galeriasTotemRef": "http://www.rtve.es/api/noticias/1737443/galerias/totem",
-          "encuestaDestacadaRef": "http://www.rtve.es/api/noticias/1737443/encuestas/destacada",
-          "encuestasRelacionadasRef": "http://www.rtve.es/api/noticias/1737443/encuestas/relacionadas",
-          "encuestasTotemRef": "http://www.rtve.es/api/noticias/1737443/encuestas/totem",
-          "comentariosRef": "http://www.rtve.es/api/noticias/1737443/comentarios",
-          "tagsRef": "http://www.rtve.es/api/noticias/1737443/tags",
-          "estadisticasRef": "http://www.rtve.es/api/noticias/1737443/estadisticas"
-        },
-        "image": null,
-        "commentOptions": null,
-        "rightModule": null,
-        "relatedByLangRef": "http://www.rtve.es/api/noticias/1737443/relacionados/relacionados-por-idioma",
-        "title": "Ángel Garrido, presidente de la Comunidad de Madrid, este martes en 'Las mañanas de RNE'"
-      },
+       
       {
-        "uri": "http://www.rtve.es/api/noticias/1737442",
-        "htmlUrl": "http://www.rtve.es/rtve/20180521/ione-belarra-portavoz-adjunta-unidos-podemos-congreso-desayunos-tve/1737442.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737442",
-        "id": "1737442",
-        "language": "es",
+
         "longTitle": "Ione Belarra, portavoz adjunta de Unidos Podemos en el Congreso, en 'Los desayunos de TVE'",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/40055",
-        "popularity": "0.0",
-        "popHistoric": "8.0",
-        "numVisits": "0",
-        "publicationDate": "21-05-2018 16:15:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 16:15:54",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737442/breadcrumb",
-        "imageSEO": null,
-        "publicationDateTimestamp": 1526912100000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": null,
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": false
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>Martes 22 de mayo, a las 08:30 horas en La 1</li>\n</ul>\n",
-        "frontSummary": null,
         "text": "<p><strong>&lsquo;Los desayunos de TVE&rsquo; tendr&aacute; el martes como invitada a la portavoz adjunta de Unidos Podemos en el Congreso de los Diputados. Iones Belarra responder&aacute; a las preguntas de Sergio Mart&iacute;n, director y presentador del programa de La 1, a partir de las 8:30 horas.</strong></p>\n\n<p>La periodista Nieves Goicoechea (Cadena SER), la escritora Nativel Preciado y las analistas pol&iacute;ticas F&aacute;tima Iglesias y Marta G&oacute;mez Montero, debatir&aacute;n sobre los temas del d&iacute;a en el tiempo de tertulia.</p>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n\n<div></div>\n",
-        "refreshSeconds": 0,
-        "sign": {
-          "ctvId": null,
-          "name": null,
-          "firma": "PRENSA RTVE",
-          "photo": null,
-          "twitter": null,
-          "facebook": null,
-          "googlePlus": null,
-          "publicationDate": null,
-          "numPublications": null
-        },
-        "mainCategory": "RTVE/Comunicación RTVE/Notas de prensa TVE/Notas de prensa La 1",
-        "mainCategoryLang": "RTVE/Comunicación RTVE/Notas de prensa TVE/Notas de prensa La 1",
-        "otherTopicsName": [
-          "RTVE/Comunicación RTVE",
-          "RTVE/Comunicación RTVE/Temáticas/Notas de prensa Informativos"
-        ],
-        "otherTopicsRef": "http://www.rtve.es/api/noticias/1737442/tematicas",
-        "newsRelatedRef": "http://www.rtve.es/api/noticias/1737442/noticias/relacionados",
-        "newsEspecialesRef": "http://www.rtve.es/api/noticias/1737442/noticias/especiales",
-        "multimediaRelatedRef": "http://www.rtve.es/api/noticias/1737442/multimedias/relacionados",
-        "multimediaTotemRef": "http://www.rtve.es/api/noticias/1737442/multimedias/totem",
-        "multimediaDestacadoRef": "http://www.rtve.es/api/noticias/1737442/multimedias/destacado",
-        "links": {
-          "galeriasRelacionadasRef": "http://www.rtve.es/api/noticias/1737442/galerias/relacionadas",
-          "galeriasTotemRef": "http://www.rtve.es/api/noticias/1737442/galerias/totem",
-          "encuestaDestacadaRef": "http://www.rtve.es/api/noticias/1737442/encuestas/destacada",
-          "encuestasRelacionadasRef": "http://www.rtve.es/api/noticias/1737442/encuestas/relacionadas",
-          "encuestasTotemRef": "http://www.rtve.es/api/noticias/1737442/encuestas/totem",
-          "comentariosRef": "http://www.rtve.es/api/noticias/1737442/comentarios",
-          "tagsRef": "http://www.rtve.es/api/noticias/1737442/tags",
-          "estadisticasRef": "http://www.rtve.es/api/noticias/1737442/estadisticas"
-        },
-        "image": null,
-        "commentOptions": null,
-        "rightModule": null,
-        "relatedByLangRef": "http://www.rtve.es/api/noticias/1737442/relacionados/relacionados-por-idioma",
-        "title": "Ione Belarra, portavoz adjunta de Unidos Podemos en el Congreso, en 'Los desayunos de TVE'"
+
       },
       {
-        "uri": "http://www.rtve.es/api/noticias/1737440",
-        "htmlUrl": "http://www.rtve.es/noticias/20180521/grupo-lima-no-reconoce-victoria-nicolas-maduro/1737440.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737440",
-        "id": "1737440",
-        "language": "es",
+
         "longTitle": "El Grupo de Lima no reconoce la victoria de Nicolás Maduro",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/1327",
-        "popularity": "0.0",
-        "popHistoric": "8.0",
-        "numVisits": "0",
-        "publicationDate": "21-05-2018 15:51:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 15:56:49",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737440/breadcrumb",
-        "imageSEO": null,
-        "publicationDateTimestamp": 1526910660000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": "Elecciones en Venezuela",
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": false
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>Desde 2017, los 12 pa&iacute;ses del Grupo de Lima vigilan la Venezuela de Maduro</li>\n\t<li>La comunidad internacional desacredita la victoria oficialista en los comicios del domingo</li>\n\t<li>La MUD, retirada de la votaci&oacute;n, y los candidatos presentados, dudan del resultado</li>\n\t<li>El Grupo acuerda &quot;reducir el nivel de sus relaciones diplom&aacute;ticas&quot; con Caracas</li>\n</ul>\n",
-        "frontSummary": null,
+
         "text": "<p>Los pa&iacute;ses del Grupo de Lima han anunciado este lunes que no reconocen los&#160;<a href=\"http://www.rtve.es/noticias/20180521/nicolas-maduro-reelegido-presidente-adversarios-piden-nuevos-comicios-venezuela/1737160.shtml\">resultados de las elecciones presidenciales</a>&#160;celebradas el domingo en&#160;<a href=\"http://www.rtve.es/temas/venezuela/1327/\">Venezuela</a>&#160;con la pol&eacute;mica victoria de&#160;<a href=\"http://www.rtve.es/temas/nicolas-maduro/60450/\">Nicol&aacute;s Maduro</a>, y han decidido&nbsp;<strong>&quot;reducir el nivel de sus relaciones diplom&aacute;ticas&quot;</strong>&nbsp;con ese pa&iacute;s.</p>\n\n<p>La decisi&oacute;n fue anunciada en un comunicado emitido por los gobiernos de&#160;<strong>Argentina, Brasil, Canad&aacute;, Chile, Colombia, Costa Rica, Guatemala, Guyana, Honduras, M&eacute;xico, Panam&aacute;, Paraguay, Per&uacute; y Santa Luc&iacute;a.</strong></p>\n\n<p>Representantes de estas 12 naciones reunidos en Lima<strong>&#160;constituyeron en agosto de 2017&#160;</strong>el grupo que lleva el nombre de la capital peruana con el fin de buscar&#160;<strong>salidas a la crisis Venezolana</strong>, especialmente en relaci&oacute;n a la gesti&oacute;n de los presos pol&iacute;ticos y del d&eacute;ficit democr&aacute;tico del r&eacute;gimen chavista dirigido por Nicol&aacute;s Maduro.</p>\n\n<p>Esos gobiernos remarcaron que&#160;<strong>&quot;no reconocen la legitimidad del proceso electoral</strong>&#160;desarrollado en la Rep&uacute;blica Bolivariana de Venezuela que concluy&oacute; el pasado 20 de mayo, por no cumplir con los est&aacute;ndares internacionales de un proceso democr&aacute;tico, libre, justo y transparente&quot;.</p>\n\n<p>@@MEDIA[4608442,v]</p>\n\n<p></p>\n",
-        "refreshSeconds": 0,
-        "sign": {
-          "ctvId": null,
-          "name": null,
-          "firma": "RTVE.es/Agencias",
-          "photo": null,
-          "twitter": null,
-          "facebook": null,
-          "googlePlus": null,
-          "publicationDate": null,
-          "numPublications": null
+ 
         },
-        "mainCategory": "Noticias/Mundo/Latinoamérica/Venezuela",
-        "mainCategoryLang": "Noticias/Mundo/Latinoamérica/Venezuela",
-        "otherTopicsName": [
-          "Tags Libres/Nicolás Maduro",
-          "Tags Libres/Elecciones presidenciales"
-        ],
-        "otherTopicsRef": "http://www.rtve.es/api/noticias/1737440/tematicas",
-        "newsRelatedRef": "http://www.rtve.es/api/noticias/1737440/noticias/relacionados",
-        "newsEspecialesRef": "http://www.rtve.es/api/noticias/1737440/noticias/especiales",
-        "multimediaRelatedRef": "http://www.rtve.es/api/noticias/1737440/multimedias/relacionados",
-        "multimediaTotemRef": "http://www.rtve.es/api/noticias/1737440/multimedias/totem",
-        "multimediaDestacadoRef": "http://www.rtve.es/api/noticias/1737440/multimedias/destacado",
-        "links": {
-          "galeriasRelacionadasRef": "http://www.rtve.es/api/noticias/1737440/galerias/relacionadas",
-          "galeriasTotemRef": "http://www.rtve.es/api/noticias/1737440/galerias/totem",
-          "encuestaDestacadaRef": "http://www.rtve.es/api/noticias/1737440/encuestas/destacada",
-          "encuestasRelacionadasRef": "http://www.rtve.es/api/noticias/1737440/encuestas/relacionadas",
-          "encuestasTotemRef": "http://www.rtve.es/api/noticias/1737440/encuestas/totem",
-          "comentariosRef": "http://www.rtve.es/api/noticias/1737440/comentarios",
-          "tagsRef": "http://www.rtve.es/api/noticias/1737440/tags",
-          "estadisticasRef": "http://www.rtve.es/api/noticias/1737440/estadisticas"
-        },
-        "image": "http://img2.rtve.es/imagenes/venezolanos-espana-supervivientes-patria-quiebra/1526711585510.jpg",
-        "commentOptions": null,
-        "rightModule": null,
-        "relatedByLangRef": "http://www.rtve.es/api/noticias/1737440/relacionados/relacionados-por-idioma",
-        "title": "El Grupo de Lima no reconoce la victoria de Nicolás Maduro"
-      },
+       
+ 
       {
-        "uri": "http://www.rtve.es/api/noticias/1737420",
-        "htmlUrl": "http://www.rtve.es/noticias/20180521/sindicatos-anuncian-preacuerdo-para-reconocer-algunas-enfermedades-profesionales-kellys/1737420.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737420",
-        "id": "1737420",
-        "language": "es",
+
         "longTitle": "Los sindicatos anuncian un preacuerdo para reconocer algunas enfermedades profesionales de las 'kellys'",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/1011",
-        "popularity": "5.6041",
-        "popHistoric": "8.0",
-        "numVisits": "8",
-        "publicationDate": "21-05-2018 15:36:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 15:40:16",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737420/breadcrumb",
-        "imageSEO": "http://img2.rtve.es/n/sindicatos-anuncian-preacuerdo-para-reconocer-algunas-enfermedades-profesionales-kellys_1737420.png",
-        "publicationDateTimestamp": 1526909760000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": null,
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": false
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>Entre ellas: s&iacute;ndrome del t&uacute;nel carpiano, bursitis y epicondilitis</li>\n\t<li>Se crear&aacute; un grupo de trabajo para abordar otras patolog&iacute;as dorso lumbares</li>\n</ul>\n",
-        "frontSummary": null,
+
         "text": "<p>Los&#160;<a href=\"http://www.rtve.es/temas/sindicatos/6670/\" target=\"_self\">sindicatos&nbsp;</a><strong>UGT y&#160;<a href=\"http://www.rtve.es/temas/ccoo-comisiones-obreras/7451/\" target=\"_self\">CC.OO.</a></strong><a href=\"http://www.rtve.es/temas/ccoo-comisiones-obreras/7451/\" target=\"_self\">&nbsp;</a>han anunciado este lunes que se ha llegado a&nbsp;<strong>un preacuerdo con el Gobierno</strong>&nbsp;para incluir dentro del Cuadro de&nbsp;<strong>Enfermedades Profesionales</strong>&nbsp;algunas de las dolencias espec&iacute;ficas que padecen las&nbsp;<strong>camareras de piso de hotel</strong>&nbsp;(<em>kellys</em>), lo que se aprobar&iacute;a mediante resoluci&oacute;n de la<strong>&nbsp;Seguridad Social</strong>&nbsp;para su inmediata aplicaci&oacute;n.</p>\n\n<p>Seg&uacute;n un comunicado de UGT, el grupo de trabajo sobre enfermedades profesionales de las camareras de piso, dentro de la Mesa Tripartita por la Calidad en el Empleo del Sector de Hosteler&iacute;a, ha llegado a este preacuerdo con la&nbsp;<strong>abstenci&oacute;n de la patronal de Hosteler&iacute;a</strong>&nbsp;(representada por CEOE-Cepyme).</p>\n\n<p>En concreto, se reconocer&aacute;n como enfermedades profesionales patolog&iacute;as que hasta la fecha no se vienen tratando adecuadamente (<strong>s&iacute;ndrome del t&uacute;nel carpiano, bursitis, epicondilitis</strong>), dice CC.OO..</p>\n\n<h2 class=\"ladillo\">Un grupo de trabajo para estudiar otras patolog&iacute;as</h2>\n\n<p>Asimismo, se crear&aacute; un grupo de trabajo espec&iacute;fico que aborde&nbsp;<strong>otras patolog&iacute;as dorso lumbares no reconocidas</strong>&nbsp;en el cuadro de enfermedades profesionales, as&iacute; como la&nbsp;<strong>contractura de Dupuytren</strong>, para su posterior inclusi&oacute;n.</p>\n\n<p>Tambi&eacute;n se ha acordado que la Mesa se dirija al Instituto Nacional de Estad&iacute;stica para que establezca&nbsp;<strong>un c&oacute;digo propio dentro de la Clasificaci&oacute;n Nacional de Ocupaciones</strong>&nbsp;para las camareras de piso -ahora dentro del general &quot;servicios de limpieza&quot;-, lo que permitir&iacute;a un seguimiento adecuado de la situaci&oacute;n real de sus enfermedades profesionales y accidentes de trabajo.</p>\n\n<p>En el momento en el que se llegue a un acuerdo definitivo, aseguran ambos sindicatos, se llevar&aacute; a cabo una campa&ntilde;a p&uacute;blica de difusi&oacute;n por parte de las Administraciones P&uacute;blicas y los agentes sociales para dar a conocer las nuevas medidas.</p>\n\n<p>En la Mesa participan UGT, CC.OO., CEOE-Cepyme, la Administraci&oacute;n central y los gobiernos auton&oacute;micos de Baleares, Canarias, Madrid y Andaluc&iacute;a.</p>\n",
-        "refreshSeconds": 0,
-        "sign": {
-          "ctvId": null,
-          "name": null,
-          "firma": "EFE",
-          "photo": null,
-          "twitter": null,
-          "facebook": null,
-          "googlePlus": null,
-          "publicationDate": null,
-          "numPublications": null
-        },
-        "mainCategory": "Noticias/Economía",
-        "mainCategoryLang": "Noticias/Economía",
-        "otherTopicsName": [
-          "Tags Libres/Enfermedades",
-          "Tags Libres/Sindicatos",
-          "Tags Libres/Empleo"
-        ],
-        "otherTopicsRef": "http://www.rtve.es/api/noticias/1737420/tematicas",
-        "newsRelatedRef": "http://www.rtve.es/api/noticias/1737420/noticias/relacionados",
-        "newsEspecialesRef": "http://www.rtve.es/api/noticias/1737420/noticias/especiales",
-        "multimediaRelatedRef": "http://www.rtve.es/api/noticias/1737420/multimedias/relacionados",
-        "multimediaTotemRef": "http://www.rtve.es/api/noticias/1737420/multimedias/totem",
-        "multimediaDestacadoRef": "http://www.rtve.es/api/noticias/1737420/multimedias/destacado",
-        "links": {
-          "galeriasRelacionadasRef": "http://www.rtve.es/api/noticias/1737420/galerias/relacionadas",
-          "galeriasTotemRef": "http://www.rtve.es/api/noticias/1737420/galerias/totem",
-          "encuestaDestacadaRef": "http://www.rtve.es/api/noticias/1737420/encuestas/destacada",
-          "encuestasRelacionadasRef": "http://www.rtve.es/api/noticias/1737420/encuestas/relacionadas",
-          "encuestasTotemRef": "http://www.rtve.es/api/noticias/1737420/encuestas/totem",
-          "comentariosRef": "http://www.rtve.es/api/noticias/1737420/comentarios",
-          "tagsRef": "http://www.rtve.es/api/noticias/1737420/tags",
-          "estadisticasRef": "http://www.rtve.es/api/noticias/1737420/estadisticas"
-        },
-        "image": "http://img2.rtve.es/imagenes/empleada-hotel-trabaja-habitacion/1526909958839.jpg",
-        "commentOptions": null,
-        "rightModule": null,
-        "relatedByLangRef": "http://www.rtve.es/api/noticias/1737420/relacionados/relacionados-por-idioma",
-        "title": "Los sindicatos anuncian un preacuerdo para reconocer algunas enfermedades profesionales de las 'kellys'"
-      },
+     
       {
-        "uri": "http://www.rtve.es/api/noticias/1737300",
-        "htmlUrl": "http://www.rtve.es/noticias/20180521/bases-podemos-votaran-desde-este-martes-si-iglesias-montero-deben-dimitir-polemica-su-chalet/1737300.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737300",
-        "id": "1737300",
-        "language": "es",
+
         "longTitle": "Las bases de Podemos votarán desde este martes si Iglesias y Montero deben dimitir por la compra de su chalet",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/1420",
-        "popularity": "64.8464",
-        "popHistoric": "64.8464",
-        "numVisits": "776",
-        "publicationDate": "21-05-2018 14:53:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 15:07:20",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737300/breadcrumb",
-        "imageSEO": "http://img2.rtve.es/n/bases-podemos-votaran-desde-este-martes-si-iglesias-montero-deben-dimitir-polemica-su-chalet_1737300.png",
-        "publicationDateTimestamp": 1526907180000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": null,
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": false
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>La consulta estar&aacute; abierta hasta el pr&oacute;ximo domingo</li>\n\t<li>Est&aacute;n llamados a votar unos 490.000 inscritos</li>\n\t<li>El PP y el PSOE critican la incoherencia de Iglesias y Montero</li>\n</ul>\n",
-        "frontSummary": null,
+        
         "text": "<p>El secretario de Organizaci&oacute;n de Podemos, Pablo Echenique, ha anunciado este lunes que<strong>&nbsp;la consulta a los militantes</strong>&nbsp;para que decidan si el secretario general del partido, Pablo Iglesias, y la portavoz parlamentaria, Irene Montero, tienen que dimitir<strong>&nbsp;</strong>tras la pol&eacute;mica por la compra de un chal&eacute; en Galapagar por 600.000 euros&nbsp;<strong>se celebrar&aacute; entre este martes y el domingo</strong>.</p>\n\n<p>Echenique ha anunciado la fecha, tras la reuni&oacute;n del Consejo de Coordinaci&oacute;n, en el que seg&uacute;n ha dicho se ha mostrado &ldquo;todo el mundo de acuerdo&rdquo; en celebrar esta consulta, cuya iniciativa habr&iacute;a partido de los propios dos l&iacute;deres afectados.</p>\n\n<p>La&nbsp;<a href=\"http://www.rtve.es/noticias/20180519/iglesias-montero-consultaran-bases-podemos-si-deben-seguir-cargos-tras-compra-del-chalet/1736620.shtml\">consulta que anunciaron Iglesias y Montero el pasado s&aacute;bado</a>&nbsp;ante el da&ntilde;o que ha podido hacer la pol&eacute;mica a su credibilidad arrancar&aacute; a las 17.00 horas de este martes y concluir&aacute; a las 14.00 horas del domingo.&nbsp;<strong>Est&aacute;n llamados a votar unos 490.000 inscritos</strong>&nbsp;-los que figuraban en el censo hasta el pasado viernes-.</p>\n\n<p>&quot;&iquest;Consideras que Pablo Iglesias e Irene Montero deben seguir al frente de la Secretar&iacute;a General de Podemos y de la Portavoc&iacute;a parlamentaria?&quot;, es la primera pregunta de esa consulta a la militancia del partido, que deber&aacute; escoger entre que contin&uacute;en -con la respuesta, &#39;S&iacute;, deben seguir&#39;-- o que abandonen sus actuales puestos -&#39;No, deben dimitir de la Secretar&iacute;a General y de la Portavoc&iacute;a, y dejar el acta de diputados&#39;-.</p>\n\n<h2 class=\"ladillo\">Los resultados se podr&aacute;n saber el lunes</h2>\n\n<p>Los<strong>&nbsp;resultados de la consulta podr&iacute;an anunciarse en la rueda de prensa del pr&oacute;ximo lunes</strong>, seg&uacute;n ha dicho Echenique, que ha justificado que la pregunta se limite a si Iglesias y Montero deben continuar en sus puestos y no haga referencia al chal&eacute;, indicando que la Asamblea Ciudadana de Podemos tiene capacidad de nombrar y deponer a sus l&iacute;deres, pero no la tiene &ldquo;sobre la vida privada de la gente&rdquo;.</p>\n\n<p>Para Echenique, &ldquo;preguntar por otra cosa habr&iacute;a sido excesivo&rdquo;. El secretario de Organizaci&oacute;n de Podemos ha a&ntilde;adido que la consulta ser<br />\nreglamentaria y obedecer&aacute; a &ldquo;los mismos par&aacute;metros y medidas de seguridad&rdquo; que las otras primarias del partido, como l<a href=\"http://www.rtve.es/noticias/20180514/errejon-encabezara-lista-podemos-comunidad-madrid-autonomicas-mayo-2019/1733740.shtml\">as &uacute;ltimas que eligieron a &Iacute;&ntilde;igo Errej&oacute;n como candidato a las elecciones auton&oacute;micas de Madrid</a>.</p>\n\n<p><strong>La consulta la organiza el partido y la auditar&aacute; una empresa externa</strong>, que, ha asegurado, es m&aacute;s barato y r&aacute;pido que externalizar su gesti&oacute;n, aunque el presupuesto final depender&aacute; de cu&aacute;nta gente vote. Lo que no ha querido es avanzar qu&eacute; cifras de apoyo o participaci&oacute;n ser&iacute;an suficientes para darlas por satisfactorias para la direcci&oacute;n; en su lugar, ha dicho que es &quot;mejor esperar a los resultados&quot; y luego valorarlos.</p>\n\n<h2 class=\"ladillo\">Podemos reconoce error de c&aacute;lculo</h2>\n\n<p>Echenique y la portavoz del partido, Noelia Vera, han reconocido&nbsp;<strong>su error de c&aacute;lculo</strong>&nbsp;al no esperar que la compra de un chal&eacute; de m&aacute;s de 600.000 euros por parte de Pablo Iglesias e Irene Montero fuera a desatar tan importante debate pol&iacute;tico.</p>\n\n<p>Echenique, a su vez, ha admitido que<strong>&nbsp;&quot;incoherencia&quot; y &quot;contradicciones&quot; personales &quot;tenemos todos&quot;</strong>&nbsp;en nuestras distintas facetas de la vida, pero ha insistido en calificar de &quot;reaccionario&quot; el argumento de quienes reprochan a Iglesias y Montero ser incoherentes con lo que defienden, pues a su juicio, &quot;no invalida a nadie para promover el cambio pol&iacute;tico&quot;.</p>\n\n<p>Tanto Echenique como Vera han denunciado e<strong>l &quot;acoso y persecuci&oacute;n&quot; a los que se est&aacute; sometiendo a dos cargos p&uacute;blicos&nbsp;</strong>por parte de &quot;sicarios de las cloacas&quot; que persiguen a la pareja cuando visitan el hospital para hacerse una ecograf&iacute;a o &quot;cuando van al supermercado o a pasear a sus perros&quot;, as&iacute; como que se publique la &quot;direcci&oacute;n exacta de la casa&quot;, lo que a su juicio va en contra de toda &eacute;tica y &quot;salud democr&aacute;tica&quot;.</p>\n\n<p>El dirigente de Podemos ha explicado que la Ejecutiva del partido, se ha mostrado<strong>&nbsp;&quot;conmocionada&quot; por el acoso a Iglesias y Montero, e incluso preocupada por &quot;su seguridad&quot;&nbsp;</strong>despu&eacute;s de ver que hay &quot;fascistas violentos&quot; merodeando en las cercan&iacute;as de su casa.</p>\n\n<p>Tras considerar &quot;desmesurada&quot; y &quot;repugnante&quot; la situaci&oacute;n, Echenique ha aprovechado para pedir &quot;por favor&quot; que<strong>&nbsp;&quot;este acoso pare&quot;.</strong>&#160;Vera, por su parte, ha sostenido que &quot;no es incompatible&quot; defender los derechos de las mayor&iacute;as sociales y una vivienda digno para todos, y al tiempo &quot;tener tambi&eacute;n una vida digna propia&quot;.</p>\n\n<h2 class=\"ladillo\">Apoyo de dirigentes de Podemos</h2>\n\n<p>Tambi&eacute;n el secretario general de Podem, Xavier Dom&egrave;nech, ha avalado la continuidad de Iglesias y Montero en la consulta a las bases. &quot;Pablo e Irene<strong>&nbsp;deben seguir evidentemente liderando pol&iacute;ticamente los proyectos de cambios en Espa&ntilde;a</strong>&quot;, ha subrayadoen declaraciones a Efe sobre la consulta.</p>\n\n<p>Seg&uacute;n Dom&egrave;nech, Iglesias y Montero son, &quot;junto con mucha otra gente que est&aacute; en el Congreso, en los parlamentos y en los ayuntamientos y en la sociedad civil&quot;, quienes<strong>&nbsp;est&aacute;n defendiendo el derecho a la vivienda &quot;como nadie&quot;</strong>.</p>\n\n<p>Asimismo la portavoz de Podemos en la Asamblea de Madrid, Lorena Ruiz-Huertas, ha expresado su<strong>&nbsp;&quot;apoyo&quot; a Iglesias y Montero</strong>, que -ha dicho- &quot;est&aacute;n sufriendo una operaci&oacute;n de acoso y derribo y una intromisi&oacute;n en su vida personal, algo intolerable y sin precedentes&quot;.</p>\n\n<p>Sin embargo, ha afirmado que no le parece acertada la decisi&oacute;n de consultar a los inscritos sobre algo que s&oacute;lo afecta a la vida privada de la pareja Montero-Iglesias y ha asegurado que echa<strong>&nbsp;de menos que el partido realice consultas de &quot;contenido pol&iacute;tico</strong>&quot; entre los inscritos, con &quot;relevancia real para la deriva o el crecimiento de la organizaci&oacute;n&quot;.</p>\n\n<p>Aunque s&iacute; ha considerado Lorena Ru&iacute;z-Huerta que &quot;hubiese sido positivo someter a consulta un c&oacute;digo &eacute;tico en el que se volviese a<strong>&nbsp;valorar la cuesti&oacute;n de las limitaciones de salarios o de los estilos de vida</strong>&nbsp;que debemos tener los dirigentes de Podemos&quot;.</p>\n\n<h2 class=\"ladillo\">Cr&iacute;ticas del PP y PSOE a Iglesias y Montero</h2>\n\n<p>Desde el PP y el PSOE, la compra del chal&eacute; de Iglesias y Montero ha desatado las cr&iacute;ticas. La vicepresidenta del Gobierno, Soraya S&aacute;enz de Santamar&iacute;a, ha recordado este lunes&nbsp;<strong>el escrache que sufri&oacute; su familia en 2013 para criticar al l&iacute;der de Podemos</strong>, por apelar a su intimidad para justificar la pol&eacute;mica compra de su chal&eacute; de 600.000 euros.</p>\n\n<p>&quot;Si &eacute;l reivindica el derecho a la intimidad de su familia &iquest;qu&eacute; pasa, que nuestros hijos y nuestras madres son de peor condici&oacute;n que la suya?&quot;, ha dicho S&aacute;enz de Santamar&iacute;a en declaraciones a los periodistas cuando le han preguntado por este asunto.</p>\n\n<p>La n&uacute;mero dos del Ejecutivo ha lanzado esta pregunta tras apuntar, adem&aacute;s, que &quot;al &uacute;nico que le altera su propia doctrina sobre esto es al se&ntilde;or Pablo Iglesias&quot;. Los dos dirigentes de Podemos, que van a ser padres de mellizos, justificaron la compra del chal&eacute; en la necesidad de preservar la intimidad de su familia.</p>\n\n<p>Por su parte, el portavoz de la Ejecutiva Federal del PSOE, &Oacute;scar Puente,&nbsp;<strong>ha reprochado a Iglesias y a Montero, que hagan lo contrario de lo que predican</strong>&nbsp;y ha considerado que quienes, finalmente, valorar&aacute;n la compra del chalet ser&aacute;n sus votantes.</p>\n\n<p>En declaraciones a los medios antes de la reuni&oacute;n de la Ejecutiva Federal en la sede de Ferraz, Puente ha admitido que<strong>&#160;comprarse una vivienda no tendr&iacute;a que ser una cuesti&oacute;n sometida a debate p&uacute;blico,</strong>&#160;pero &quot;el problema&quot; reside en que Iglesias y Montero han dicho &quot;d&oacute;nde y c&oacute;mo hay que vivir para ser de izquierdas&quot;.</p>\n\n<p>&quot;Se puede ser de izquierdas teniendo una buena vivienda y un modus de vida holgado y cuando se vive c&oacute;modamente se puede elegir qu&eacute; se defiende, si se defiende a las personas qu e tienen una situaci&oacute;n c&oacute;moda como la tuya o a las personas con dificultades. Se puede hacer perfectamente&quot;, ha agregado.</p>\n\n<p>Por su parte, el secretario de Organizaci&oacute;n del PSOE, Jos&eacute; Luis &Aacute;balos, ha discrepado con la realizaci&oacute;n de la consulta y ha comentado que &quot;lo que hace uno en la vida privada no lo debe someter a escrutinio de los dem&aacute;s&quot;. &quot;Uno debe asumir la responsabilidad de lo que hace y no necesita saber cual es la opini&oacute;n de los dem&aacute;s. Es inaudito&quot;, ha insistido.</p>\n\n<p></p>\n",
-        "refreshSeconds": 0,
-        "sign": {
-          "ctvId": null,
-          "name": null,
-          "firma": "RTVE.es / AGENCIAS",
-          "photo": null,
-          "twitter": null,
-          "facebook": null,
-          "googlePlus": null,
-          "publicationDate": null,
-          "numPublications": null
-        },
-        "mainCategory": "Noticias/España",
-        "mainCategoryLang": "Noticias/España",
-        "otherTopicsName": [
-          "Tags Libres/Pablo Iglesias",
-          "Tags Libres/Podemos",
-          "Tags Libres/Congreso de los Diputados",
-          "Tags Libres/Unidos Podemos",
-          "Tags Libres/Irene Montero"
-        ],
-        "otherTopicsRef": "http://www.rtve.es/api/noticias/1737300/tematicas",
-        "newsRelatedRef": "http://www.rtve.es/api/noticias/1737300/noticias/relacionados",
-        "newsEspecialesRef": "http://www.rtve.es/api/noticias/1737300/noticias/especiales",
-        "multimediaRelatedRef": "http://www.rtve.es/api/noticias/1737300/multimedias/relacionados",
-        "multimediaTotemRef": "http://www.rtve.es/api/noticias/1737300/multimedias/totem",
-        "multimediaDestacadoRef": "http://www.rtve.es/api/noticias/1737300/multimedias/destacado",
-        "links": {
-          "galeriasRelacionadasRef": "http://www.rtve.es/api/noticias/1737300/galerias/relacionadas",
-          "galeriasTotemRef": "http://www.rtve.es/api/noticias/1737300/galerias/totem",
-          "encuestaDestacadaRef": "http://www.rtve.es/api/noticias/1737300/encuestas/destacada",
-          "encuestasRelacionadasRef": "http://www.rtve.es/api/noticias/1737300/encuestas/relacionadas",
-          "encuestasTotemRef": "http://www.rtve.es/api/noticias/1737300/encuestas/totem",
-          "comentariosRef": "http://www.rtve.es/api/noticias/1737300/comentarios",
-          "tagsRef": "http://www.rtve.es/api/noticias/1737300/tags",
-          "estadisticasRef": "http://www.rtve.es/api/noticias/1737300/estadisticas"
-        },
-        "image": "http://img2.rtve.es/imagenes/secretario-general-podemos-pablo-iglesias-portavoz-parlamentaria-irene-montero/1526895796454.jpg",
-        "commentOptions": null,
-        "rightModule": null,
-        "relatedByLangRef": "http://www.rtve.es/api/noticias/1737300/relacionados/relacionados-por-idioma",
-        "title": "Las bases de Podemos votarán desde este martes si Iglesias y Montero deben dimitir por la compra de su chalet"
-      },
+       
+      }
       {
-        "uri": "http://www.rtve.es/api/noticias/1737220",
-        "htmlUrl": "http://www.rtve.es/noticias/20180521/torra-llega-carcel-estremera-para-visitar-presos-independentistas/1737220.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737220",
-        "id": "1737220",
-        "language": "es",
+
         "longTitle": "Torra afirma que los 'consellers' en prisión quieren \"acceder al cargo\" y pide diálogo: \"Esto no puede seguir así\"",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/1457",
-        "popularity": "71.1308",
-        "popHistoric": "71.1308",
-        "numVisits": "1256",
-        "publicationDate": "21-05-2018 14:49:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 14:50:51",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737220/breadcrumb",
-        "imageSEO": "http://img2.rtve.es/n/torra-llega-carcel-estremera-para-visitar-presos-independentistas_1737220.png",
-        "publicationDateTimestamp": 1526906940000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": null,
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": false
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>El president visita en Estremera a a Junqueras, Forn, Romeva, Rull y Turull</li>\n\t<li>Tambi&eacute;n visita a los presos de las prisiones de Alc&aacute;l&aacute;-Meco y Soto del Real</li>\n\t<li><a href=\"http://www.rtve.es/noticias/20180521/gobierno-veta-nombramientos-consellers-presos-huidos-justicia-espanola/1737201.shtml\">El Gobierno no publica este lunes el decreto de nombramiento de los consellers</a></li>\n\t<li>Puig pide amparo a la CE por la &quot;vulneraci&oacute;n&quot; de sus derechos pol&iacute;ticos</li>\n</ul>\n",
-        "frontSummary": null,
+      
         "text": "<p></p>\n\n<p>El presidente catal&aacute;n,&nbsp;<a href=\"http://www.rtve.es/temas/quim-torra/117450/\">Quim Torra</a>, ha afirmado que&nbsp;<strong>Jordi Turull y Josep Rull le han manifestado su voluntad de acceder al cargo</strong>&nbsp;de consellers que &eacute;l les ha propuesto y su deseo de que el juez del Tribunal Supremo Pablo Llarena les ponga en libertad para que este mi&eacute;rcoles puedan tomar posesi&oacute;n. Adem&aacute;s, Torra ha reiterado su &quot;oferta de di&aacute;logo al Gobierno de Espa&ntilde;a&quot;: &quot;Esto no puede seguir as&iacute;, necesitamos solucionar este tema&quot;, en referencia a la prisi&oacute;n preventiva en la que se encuentran nueve dirigentes catalanes.</p>\n\n<p>Torra ha atendido a la prensa en las diferentes visitas que ha hecho a los pol&iacute;ticos presos en las c&aacute;rceles madrile&ntilde;as de Estremera, donde ha visto a los l&iacute;deres independentistas Oriol Junqueras, Joaquim Forn, Ra&uuml;l Romeva, Josep Rull y Jordi Turull, a quienes ha visto &quot;fuertes y animados&quot;; y de Alcal&aacute; Meco, donde se ha reunido con la expresidenta del Parlamento catal&aacute;n Carmen Forcadell y la exconsejera de Asuntos Sociales Dolors Bassa, de las que ha dicho son &quot;dos mujeres extraordinarias, valientes, que nos han transmitido todo su coraje&quot;</p>\n\n<p>Torra ha querido que su primera visita oficial como presidente de la Generalitat haya sido a los pol&iacute;ticos independentistas presos en las c&aacute;rceles madrile&ntilde;as. Tras su paso por Estremera y Alcal&aacute; Meco, Torra acudir&aacute; por la tarde a la c&aacute;rcel de Soto del Real donde se ver&aacute; con los expresidentes de la ANC y &Ograve;mnium Jordi S&aacute;nchez y Jordi Cuixart, respectivamente.</p>\n\n<p>Este lunes el Gobierno central&nbsp;<a href=\"http://www.rtve.es/noticias/20180521/gobierno-veta-nombramientos-consellers-presos-huidos-justicia-espanola/1737201.shtml\">ha vetado el nombramiento de los consellers</a>&nbsp;elegidos por Torra, entre los que&nbsp;<a href=\"http://www.rtve.es/noticias/20180519/torra-nombra-consejeros-encarcelados-turull-rull-huidos-puig-comin/1736382.shtml\">hay presos y huidos de la justicia espa&ntilde;ola</a>: adem&aacute;s de Turull y Rull, Llu&iacute;s Puig y Toni Com&iacute;n, a los que&nbsp;<a href=\"http://www.rtve.es/noticias/20180516/juez-belga-rechaza-entrega-espana-exconsellers-comin-serret-puig-defectos-forma/1734260.shtml\">la justicia belga no entregar&aacute; a Espa&ntilde;a</a>. El president dijo este domingo que no se &quot;pod&iacute;a imaginar&quot; que el Gobierno no publicase este decreto porque, a su juicio, &quot;incumplir&iacute;a la ley&quot;.</p>\n\n<p></p>\n\n<p></p>\n\n<p></p>\n\n<h2 class=\"ladillo\">Torra: &quot;Ninguno de ellos estar&iacute;a preso en otro pa&iacute;s de Europa&quot;</h2>\n\n<p>&quot;Catalu&ntilde;a est&aacute; esperando a sus&nbsp;<strong>pol&iacute;ticos honestos, honorables y dem&oacute;cratas</strong>&nbsp;que, simplemente, hicieron lo que el pueblo les pidi&oacute; que hicieran, que era dejar votar al pueblo&quot;, ha dicho Torra, que ha expresado adem&aacute;s su &quot;profunda&quot; emoci&oacute;n por el encuentro con sus &quot;amigos&quot; y &quot;compa&ntilde;eros&quot;, a quienes les ha trasladado &quot;toda la fuerza y todo el coraje&quot; de los catalanes.</p>\n\n<p>&quot;Tienen unas ganas inmensas de que podamos solucionar cuanto antes una situaci&oacute;n que jam&aacute;s se ten&iacute;a que haber producido&quot;, ha dicho. Seg&uacute;n ha asegurado, ninguno de ellos estar&iacute;a preso en ning&uacute;n otro pa&iacute;s de Europa por los delitos por los que est&aacute;n acusados y que, en su opini&oacute;n, carecen de &quot;fundamento&quot;.</p>\n\n<p>&quot;Es -ha advertido- una injusticia que no solo afecta a los presos pol&iacute;ticos, sino tambi&eacute;n y muy profundamente a sus familiares que tienen que trasladarse 600 kil&oacute;metros para poder verlos&quot;.</p>\n\n<h2 class=\"ladillo\">Puig pide amparo a la CE por la &quot;vulneraci&oacute;n&quot; de sus derechos pol&iacute;ticos</h2>\n\n<p>Precisamente, Puig ha solicitado amparo a la Comisi&oacute;n Europea (CE) por la &quot;vulneraci&oacute;n&quot; de sus &quot;derechos pol&iacute;ticos&quot;, seg&uacute;n explica en una carta publicada en su cuenta de Twitter.</p>\n\n<p>&quot;Le escribo como ciudadano, confieso que rehuyendo de manera consciente una comunicaci&oacute;n de car&aacute;cter jur&iacute;dico, con el convencimiento de que la cuesti&oacute;n que nos ocupa es de orden humanitario&quot;, indica la carta, dirigida al vicepresidente primero de la CE, Frans Timmermans.</p>\n\n<blockquote class=\"twitter-tweet\" data-lang=\"es\">\n<p dir=\"ltr\" lang=\"ca\">Avui he demanat empara a la UE, adre&ccedil;ada al sr&nbsp;<a href=\"https://twitter.com/TimmermansEU?ref_src=twsrc%5Etfw\">@TimmermansEU</a>&nbsp;si voleu llegir el text:<br />\n<a href=\"https://t.co/qqmDdTV5ru\">https://t.co/qqmDdTV5ru</a><a href=\"https://twitter.com/hashtag/wakeupeurope?src=hash&amp;ref_src=twsrc%5Etfw\">#wakeupeurope</a><br />\n<a href=\"https://twitter.com/QuimTorraiPla?ref_src=twsrc%5Etfw\">@QuimTorraiPla</a>&nbsp;<a href=\"https://twitter.com/KRLS?ref_src=twsrc%5Etfw\">@KRLS</a>&nbsp;<a href=\"https://twitter.com/gencat?ref_src=twsrc%5Etfw\">@gencat</a>&nbsp;<a href=\"https://twitter.com/catalan_gov?ref_src=twsrc%5Etfw\">@catalan_gov</a>&nbsp;<a href=\"https://twitter.com/CatalanCouncil?ref_src=twsrc%5Etfw\">@CatalanCouncil</a></p>\n&mdash; Llu&iacute;s Puig i Gordi (@PuigGordi)&nbsp;<a href=\"https://twitter.com/PuigGordi/status/998270827031392260?ref_src=twsrc%5Etfw\">20 de mayo de 2018</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n<p>A&ntilde;ade que, tras haber ejercido &quot;con fidelidad al pueblo de Catalu&ntilde;a&quot; su cargo como consejero de Cultura, y tras las elecciones del 21 de diciembre, ha sido &quot;propuesto de nuevo para formar parte del gobierno que ahora lidera el presidente Torra&quot; y que responde a ese ofrecimiento con &quot;compromiso y lealtad&quot; a la voluntad de los ciudadanos catalanes.</p>\n\n<p>&quot;Pese a ello, como ya ocurri&oacute; con el cese en pleno del Gobierno catal&aacute;n en base a una interpretaci&oacute;n abusiva del art&iacute;culo 155 de la Constituci&oacute;n espa&ntilde;ola, todav&iacute;a vigente, veo nuevamente amenazados mis derechos pol&iacute;ticos reconocidos en el art&iacute;culo 23.2 de la citada Constituci&oacute;n y truncada mi voluntad de servir a la ciudadan&iacute;a de Catalu&ntilde;a&quot;, dice.</p>\n\n<p>Puig apela a &quot;los valores fundamentales de la Uni&oacute;n Europea&quot; y a &quot;los aspectos recogidos en la Declaraci&oacute;n Universal de los Derechos Humanos&quot;, en especial en lo relativo al &quot;derecho de amparo contra los actos que violan los derechos fundamentales reconocidos por la Constituci&oacute;n o por la ley&quot;.</p>\n\n<p>El presidente del Parlament, Roger Torrent, visitar&aacute; este lunes y ma&ntilde;ana martes a los presos independentistas en las tres c&aacute;rceles pr&oacute;ximas a Madrid donde se encuentran en situaci&oacute;n de prisi&oacute;n preventiva.</p>\n\n<p></p>\n",
-        "refreshSeconds": 0,
-        "sign": {
-          "ctvId": null,
-          "name": null,
-          "firma": "RTVE.es/ AGENCIAS",
-          "photo": null,
-          "twitter": null,
-          "facebook": null,
-          "googlePlus": null,
-          "publicationDate": null,
-          "numPublications": null
-        },
-        "mainCategory": "Noticias/España/Cataluña",
-        "mainCategoryLang": "Noticias/España/Cataluña",
-        "otherTopicsName": [
-          "Tags Libres/Quim Torra",
-          "Noticias/Especiales/Desafío independentista en Cataluña",
-          "Tags Libres/Generalitat de Cataluña"
-        ],
-        "otherTopicsRef": "http://www.rtve.es/api/noticias/1737220/tematicas",
-        "newsRelatedRef": "http://www.rtve.es/api/noticias/1737220/noticias/relacionados",
-        "newsEspecialesRef": "http://www.rtve.es/api/noticias/1737220/noticias/especiales",
-        "multimediaRelatedRef": "http://www.rtve.es/api/noticias/1737220/multimedias/relacionados",
-        "multimediaTotemRef": "http://www.rtve.es/api/noticias/1737220/multimedias/totem",
-        "multimediaDestacadoRef": "http://www.rtve.es/api/noticias/1737220/multimedias/destacado",
-        "links": {
-          "galeriasRelacionadasRef": "http://www.rtve.es/api/noticias/1737220/galerias/relacionadas",
-          "galeriasTotemRef": "http://www.rtve.es/api/noticias/1737220/galerias/totem",
-          "encuestaDestacadaRef": "http://www.rtve.es/api/noticias/1737220/encuestas/destacada",
-          "encuestasRelacionadasRef": "http://www.rtve.es/api/noticias/1737220/encuestas/relacionadas",
-          "encuestasTotemRef": "http://www.rtve.es/api/noticias/1737220/encuestas/totem",
-          "comentariosRef": "http://www.rtve.es/api/noticias/1737220/comentarios",
-          "tagsRef": "http://www.rtve.es/api/noticias/1737220/tags",
-          "estadisticasRef": "http://www.rtve.es/api/noticias/1737220/estadisticas"
-        },
-        "image": "http://img2.rtve.es/imagenes/torra-afirma-consellers-prision-quieren-acceder-cargo-pide-su-libertad/1526898430749.jpg",
-        "commentOptions": null,
-        "rightModule": null,
-        "relatedByLangRef": "http://www.rtve.es/api/noticias/1737220/relacionados/relacionados-por-idioma",
-        "title": "Torra afirma que los 'consellers' en prisión quieren \"acceder al cargo\" y pide diálogo: \"Esto no puede seguir así\""
+       
       },
       {
-        "uri": "http://www.rtve.es/api/noticias/1737403",
-        "htmlUrl": "http://www.rtve.es/noticias/20180521/rusia-investiga-hibernar-cosmonautas-forma-similar-osos/1737403.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737403",
-        "id": "1737403",
-        "language": "es",
+        
         "longTitle": "Rusia investiga hibernar a sus cosmonautas de forma similar a los osos",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/1012",
-        "popularity": "21.9016",
-        "popHistoric": "21.9016",
-        "numVisits": "29",
-        "publicationDate": "21-05-2018 14:47:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 14:59:34",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737403/breadcrumb",
-        "imageSEO": "http://img2.rtve.es/n/rusia-investiga-hibernar-cosmonautas-forma-similar-osos_1737403.png",
-        "publicationDateTimestamp": 1526906820000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": null,
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": true
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>Cient&iacute;ficos est&aacute;n desarrollando medicamentos con este fin</li>\n\t<li>Su objetivo es causar un estado hipobi&oacute;tico artificial</li>\n\t<li>Creen que la medida ser&aacute; necesaria para vuelos interplanetarios</li>\n</ul>\n",
-        "frontSummary": null,
+        
         "text": "<p>Cient&iacute;ficos rusos est&aacute;n desarrollando&#160;<strong>medicamentos que pueden ser utilizados para la &quot;hibernaci&oacute;n&quot; de los cosmonautas</strong>, una medida necesaria para llevar a cabo vuelos interplanetarios.</p>\n\n<p>El objetivo final de la investigaci&oacute;n es la creaci&oacute;n de&#160;<strong>medicamentos que pueden causar un estado hipobi&oacute;tico artificial</strong>&#160;similar a la hibernaci&oacute;n de los osos.</p>\n\n<p>&quot;El enfoque para causar un estado hipobi&oacute;tico artificial, que se est&aacute; desarrollando, puede utilizarse durante el desarrollo de tecnolog&iacute;as necesarias&#160;<strong>para la exploraci&oacute;n del espacio lejano y otros planetas del sistema solar&#160;</strong>ya que el logro de estos objetivos solo es posible mediante la disminuci&oacute;n del consumo de ox&iacute;geno y consumo de fuentes de suministro de energ&iacute;a de cosmonautas&quot;, declara a&#160;<a href=\"https://sputniknews.com/\" target=\"_blank\">sputniknews.com</a>&#160;el jefe del grupo de proyectos de la Fundaci&oacute;n Rusa de Investigaci&oacute;n Avanzada, Anatoly Kovtun.</p>\n\n<h2 class=\"ladillo\">Programa de aislamiento terrestre de cinco a&ntilde;os</h2>\n\n<p>El director del Instituto Ruso de Problemas Biom&eacute;dicos (RIBP) Oleg Orlov manifest&oacute; previamente que Rusia y la NASA hab&iacute;an firmado un acuerdo de cooperaci&oacute;n sobre un programa de aislamiento terrestre de cinco a&ntilde;os para preparar a los equipos para futuros vuelos espaciales interplanetarios.</p>\n\n<p></p>\n",
-        "refreshSeconds": 0,
-        "sign": {
-          "ctvId": null,
-          "name": null,
-          "firma": "RTVE.es / EUROPA PRESS",
-          "photo": null,
-          "twitter": null,
-          "facebook": null,
-          "googlePlus": null,
-          "publicationDate": null,
-          "numPublications": null
+       
         },
-        "mainCategory": "Noticias/Ciencia y tecnología",
-        "mainCategoryLang": "Noticias/Ciencia y tecnología",
-        "otherTopicsName": [
-          "Tags Libres/Investigación espacial",
-          "Tags Libres/Espacio"
-        ],
-        "otherTopicsRef": "http://www.rtve.es/api/noticias/1737403/tematicas",
-        "newsRelatedRef": "http://www.rtve.es/api/noticias/1737403/noticias/relacionados",
-        "newsEspecialesRef": "http://www.rtve.es/api/noticias/1737403/noticias/especiales",
-        "multimediaRelatedRef": "http://www.rtve.es/api/noticias/1737403/multimedias/relacionados",
-        "multimediaTotemRef": "http://www.rtve.es/api/noticias/1737403/multimedias/totem",
-        "multimediaDestacadoRef": "http://www.rtve.es/api/noticias/1737403/multimedias/destacado",
-        "links": {
-          "galeriasRelacionadasRef": "http://www.rtve.es/api/noticias/1737403/galerias/relacionadas",
-          "galeriasTotemRef": "http://www.rtve.es/api/noticias/1737403/galerias/totem",
-          "encuestaDestacadaRef": "http://www.rtve.es/api/noticias/1737403/encuestas/destacada",
-          "encuestasRelacionadasRef": "http://www.rtve.es/api/noticias/1737403/encuestas/relacionadas",
-          "encuestasTotemRef": "http://www.rtve.es/api/noticias/1737403/encuestas/totem",
-          "comentariosRef": "http://www.rtve.es/api/noticias/1737403/comentarios",
-          "tagsRef": "http://www.rtve.es/api/noticias/1737403/tags",
-          "estadisticasRef": "http://www.rtve.es/api/noticias/1737403/estadisticas"
-        },
-        "image": "http://img2.rtve.es/imagenes/rusia-esta-desarrollando-tecnologias-necesarias-para-exploracion-del-espacio-lejano-otros-planetas-del-sistema-solar/1526907438554.jpg",
-        "commentOptions": null,
-        "rightModule": null,
-        "relatedByLangRef": "http://www.rtve.es/api/noticias/1737403/relacionados/relacionados-por-idioma",
-        "title": "Rusia investiga hibernar a sus cosmonautas de forma similar a los osos"
-      },
+   
       {
-        "uri": "http://www.rtve.es/api/noticias/1737372",
-        "htmlUrl": "http://www.rtve.es/deportes/20180521/morata-asegura-desde-ya-esta-apoyando-animando-seleccion/1737372.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737372",
-        "id": "1737372",
-        "language": "es",
+
         "longTitle": "Morata asegura que \"desde ya\" está \"apoyando y animando\" a la selección",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/101670",
-        "popularity": "33.2519",
-        "popHistoric": "33.2519",
-        "numVisits": "66",
-        "publicationDate": "21-05-2018 14:01:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 14:41:33",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737372/breadcrumb",
-        "imageSEO": "http://img2.rtve.es/n/morata-asegura-desde-ya-esta-apoyando-animando-seleccion_1737372.png",
-        "publicationDateTimestamp": 1526904060000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": "Mundial 2018 | Selección española",
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": false
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>El delantero del Chelsea encaja con deportividad su ausencia del Mundial</li>\n</ul>\n",
-        "frontSummary": null,
+   
         "text": "<p>&Aacute;lvaro Morata, delantero del Chelsea ingl&eacute;s que&nbsp;<a href=\"http://www.rtve.es/deportes/20180521/mundial-2018-seleccion-espanola-convocatoria-espana-julen-lopetegui/1737101.shtml\">se ha quedado fuera de la lista de convocados por Julen Lopetegui</a>, seleccionador espa&ntilde;ol, para el Mundial de Rusia, asegura que &quot;desde ya&quot; est&aacute; &quot;apoyando y animando&quot; al equipo nacional.</p>\n\n<p>La ausencia en la relaci&oacute;n de 23 jugadores anunciada este lunes por Lopetegui es una de las grandes noticias de la convocatoria&nbsp;<strong>despu&eacute;s de haber participado activamente en la fase de clasificaci&oacute;n</strong>.</p>\n\n<p>&quot;Much&iacute;sima suerte en el Mundial!! Desde ya estar&eacute; apoyando y animando hasta el final como siempre!!&quot;, se&ntilde;ala Morata en un&#160;<a href=\"https://twitter.com/AlvaroMorata/status/998527096849928192\">tuit</a>&#160;publicado apenas unos minutos despu&eacute;s de que Lopetegui hiciera p&uacute;blica la lista de la selecci&oacute;n.</p>\n\n<p>Morata, que esta temporada&nbsp;<strong>ha carecido de continuidad en el equipo de Antonio Conte</strong>&nbsp;por motivos f&iacute;sicos y deportivos, ha sido internacional en 23 ocasiones, en los que ha anotado 13 tantos, recuerda Efe.</p>\n\n<p>@@MEDIA[4608613,v]</p>\n\n<p></p>\n",
-        "refreshSeconds": 0,
-        "sign": {
-          "ctvId": null,
-          "name": null,
-          "firma": "RTVE.ES",
-          "photo": null,
-          "twitter": null,
-          "facebook": null,
-          "googlePlus": null,
-          "publicationDate": null,
-          "numPublications": null
-        },
-        "mainCategory": "Deportes/Fútbol/Mundiales de Fútbol/Mundial de Fútbol 2018",
-        "mainCategoryLang": "Deportes/Fútbol/Mundiales de Fútbol/Mundial de Fútbol 2018",
-        "otherTopicsName": [
-          "Tags Libres/Selección Española de Fútbol"
-        ],
-        "otherTopicsRef": "http://www.rtve.es/api/noticias/1737372/tematicas",
-        "newsRelatedRef": "http://www.rtve.es/api/noticias/1737372/noticias/relacionados",
-        "newsEspecialesRef": "http://www.rtve.es/api/noticias/1737372/noticias/especiales",
-        "multimediaRelatedRef": "http://www.rtve.es/api/noticias/1737372/multimedias/relacionados",
-        "multimediaTotemRef": "http://www.rtve.es/api/noticias/1737372/multimedias/totem",
-        "multimediaDestacadoRef": "http://www.rtve.es/api/noticias/1737372/multimedias/destacado",
-        "links": {
-          "galeriasRelacionadasRef": "http://www.rtve.es/api/noticias/1737372/galerias/relacionadas",
-          "galeriasTotemRef": "http://www.rtve.es/api/noticias/1737372/galerias/totem",
-          "encuestaDestacadaRef": "http://www.rtve.es/api/noticias/1737372/encuestas/destacada",
-          "encuestasRelacionadasRef": "http://www.rtve.es/api/noticias/1737372/encuestas/relacionadas",
-          "encuestasTotemRef": "http://www.rtve.es/api/noticias/1737372/encuestas/totem",
-          "comentariosRef": "http://www.rtve.es/api/noticias/1737372/comentarios",
-          "tagsRef": "http://www.rtve.es/api/noticias/1737372/tags",
-          "estadisticasRef": "http://www.rtve.es/api/noticias/1737372/estadisticas"
-        },
+        
         "image": "http://img2.rtve.es/imagenes/morata-partido-fase-clasificacion-del-mundial/1526904337788.jpg",
         "commentOptions": null,
         "rightModule": null,
@@ -654,78 +63,13 @@
         "title": "Morata asegura que \"desde ya\" está \"apoyando y animando\" a la selección"
       },
       {
-        "uri": "http://www.rtve.es/api/noticias/1737401",
-        "htmlUrl": "http://www.rtve.es/noticias/20180521/museo-del-prado-expone-tres-nuevas-obras-maino-fosman-paret/1737401.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737401",
-        "id": "1737401",
-        "language": "es",
+
         "longTitle": "El Museo del Prado expone tres nuevas obras de Maíno, Fosman y Paret",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/827",
-        "popularity": "29.1817",
-        "popHistoric": "29.1817",
-        "numVisits": "58",
-        "publicationDate": "21-05-2018 13:56:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 14:24:56",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737401/breadcrumb",
-        "imageSEO": "http://img2.rtve.es/n/museo-del-prado-expone-tres-nuevas-obras-maino-fosman-paret_1737401.png",
-        "publicationDateTimestamp": 1526903760000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": null,
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": false
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>Son&nbsp;<em>San Juan Bautista en un paisaje, Auto de Fe y La Celestina y los enamorados</em></li>\n\t<li>Tres obras singulares que ya forman parte de las colecciones de la pinacoteca</li>\n</ul>\n",
-        "frontSummary": null,
+
+
         "text": "<p>A partir de este lunes, el Museo del Prado exhibe en sus salas del edificio Villanueva un conjunto de obras que han entrado a formar parte de sus colecciones, dos de ellas como adquisiciones del Ministerio de Educaci&oacute;n, Cultura y Deporte de los a&ntilde;os 2016 y 2017, y&nbsp;<strong>una tercera adquirida con fondos propios.</strong></p>\n\n<p>Se trata de<strong>&nbsp;tres obras singulares&nbsp;</strong>tanto por la materia del soporte como por la t&eacute;cnica utilizada, poco habitual en las salas de exposici&oacute;n del Museo del Prado.</p>\n\n<p><em>San Juan Bautista en un paisaje&nbsp;</em>de Ma&iacute;no, que se expone en la sala 7 A, es una prueba de la&nbsp;<strong>maestr&iacute;a pict&oacute;rica</strong>&nbsp;alcanzada por este artista al concluir su formaci&oacute;n en Roma;&nbsp;<em>Auto de Fe</em>&nbsp;celebrado en la Plaza Mayor de Madrid, en la sala 16 A, es la &uacute;nica representaci&oacute;n de Fosman,&nbsp;<strong>grabador madrile&ntilde;o del siglo XVII</strong>, en el Prado; y,&nbsp;<em>La Celestina y los enamorados</em>, en la sala 93, es&nbsp;<strong>una obra de Paret de car&aacute;cter &uacute;nico&nbsp;</strong>y excepcional, sin parang&oacute;n en la obra este artista ni en la de los artistas de su tiempo.</p>\n\n<h2 class=\"ladillo\">&quot;Caprichos de gabinete&quot;</h2>\n\n<p>Los cobres de peque&ntilde;as dimensiones y refinada realizaci&oacute;n, fueron piezas muy requeridas por sofisticados coleccionistas italianos de la primera mitad del XVII, quienes disfrutaban con estos<strong>&nbsp;&quot;caprichos de gabinete&quot;</strong>, obras que requer&iacute;an una atenci&oacute;n detallada y cercana.<br />\nEste ejemplar es una significativa prueba de la maestr&iacute;a pict&oacute;rica alcanzada por Ma&iacute;no al poco de concluir su decisiva formaci&oacute;n en Roma.</p>\n\n<p>@@FOTO[4608730,L,33]&nbsp;<strong>La figura del santo muestra una profunda asimilaci&oacute;n de la obra de Caravaggio,</strong>&nbsp;mientras que el complejo y rico paisaje, lleno de amenos detalles realizados con admirable minuciosidad, debe ser visto como uno de los m&aacute;s hermosos y tempranos ejemplos del llamado paisaje clasicista, iniciado en fechas parecidas por Annibale Carracci o Adam Elsheimer entre otros.</p>\n\n<p>La obra est&aacute; adem&aacute;s firmada, en la roca en la que descansa el brazo de san Juan, sin menci&oacute;n a la condici&oacute;n de dominico del pintor, alcanzada en 1613.&nbsp;<strong>Con &eacute;sta, son s&oacute;lo cinco las pinturas con firma del artista espa&ntilde;ol.</strong></p>\n\n<p>@@FOTO[4608732,C,90]<br />\n<br />\nEsta l&aacute;mina se relaciona en primer lugar con el libro de Jos&eacute; del Olmo en el que se incluye la estampa, que forma parte de la Biblioteca del Museo procedente de la de Jos&eacute; Mar&iacute;a Cervell&oacute;, y en segundo lugar con la pintura hom&oacute;nima de Francisco Rizi pintada tres a&ntilde;os despu&eacute;s, en 1683, e inspirada en la estampa del libro.</p>\n\n<p>Esta l&aacute;mina cierra el c&iacute;rculo creativo de la pintura, y documenta de forma &uacute;nica este tipo de&nbsp;<strong>celebraciones religiosas y pol&iacute;ticas</strong>. Al dorso, una pintura de autor an&oacute;nimo copia de la Madonna llamada &#39;&#39;del conejo&#39;&#39;, conocida por &#39;&#39;la zingarella&#39;&#39;, de Correggio actualmente conservada en el Museo de Capodimonte. No obstante, este cobre no es copia directa del original sino que debe ser copia de alguna de las que se documentan en Espa&ntilde;a en las fechas de la l&aacute;mina.</p>\n\n<p>@@FOTO[4608731,L,33]</p>\n\n<p><strong>Constituye una de las obras cumbres de Paret</strong>, no solo como dibujante, sino como artista. A su calidad formal, caracterizada por su precisi&oacute;n en el dibujo de los contornos y el coloreado de las formas, se une el inter&eacute;s del tema, novedoso en el panorama art&iacute;stico espa&ntilde;ol, que anticipa, en 1784, buena parte de los asuntos que interesar&aacute;n a Goya unos a&ntilde;os despu&eacute;s: la brujer&iacute;a, la superstici&oacute;n, la falsedad de las relaciones hombres-mujer y la vejez, entre otros.</p>\n\n<p>Formalmente se puede relacionar con los peque&ntilde;os &oacute;leos sobre cobre que se conservan en las colecciones del Patrimonio Nacional (Escena de interior; el rezo del rosario y Trajes de Castilla)&nbsp;<strong>procedentes de la colecci&oacute;n del Infante Don Luis de Borb&oacute;n</strong>, por lo que es posible inferir que este dibujo pudiera haber sido realizado para un destino semejante.</p>\n\n<p>La precisi&oacute;n en la representaci&oacute;n de las figuras, la indumentaria, los objetos y la propia estancia,&nbsp;<strong>convierten a esta acuarela en una obra concebida de un modo semejante a este tipo de &oacute;leos</strong>, y por tanto la convierte en una obra de car&aacute;cter &uacute;nico y excepcional, sin parang&oacute;n ni en la obra de Paret ni en la de los artistas de su tiempo. La firma y dataci&oacute;n de la obra, es se&ntilde;al inequ&iacute;voca de este car&aacute;cter aut&oacute;nomo del dibujo y de la satisfacci&oacute;n del autor con su obra</p>\n",
-        "refreshSeconds": 0,
-        "sign": {
-          "ctvId": null,
-          "name": null,
-          "firma": "RTVE.es ",
-          "photo": null,
-          "twitter": null,
-          "facebook": null,
-          "googlePlus": null,
-          "publicationDate": null,
-          "numPublications": null
-        },
-        "mainCategory": "Noticias/Cultura",
-        "mainCategoryLang": "Noticias/Cultura",
-        "otherTopicsName": [
-          "Tags Libres/Museo del Prado"
-        ],
-        "otherTopicsRef": "http://www.rtve.es/api/noticias/1737401/tematicas",
-        "newsRelatedRef": "http://www.rtve.es/api/noticias/1737401/noticias/relacionados",
-        "newsEspecialesRef": "http://www.rtve.es/api/noticias/1737401/noticias/especiales",
-        "multimediaRelatedRef": "http://www.rtve.es/api/noticias/1737401/multimedias/relacionados",
-        "multimediaTotemRef": "http://www.rtve.es/api/noticias/1737401/multimedias/totem",
-        "multimediaDestacadoRef": "http://www.rtve.es/api/noticias/1737401/multimedias/destacado",
-        "links": {
-          "galeriasRelacionadasRef": "http://www.rtve.es/api/noticias/1737401/galerias/relacionadas",
-          "galeriasTotemRef": "http://www.rtve.es/api/noticias/1737401/galerias/totem",
-          "encuestaDestacadaRef": "http://www.rtve.es/api/noticias/1737401/encuestas/destacada",
-          "encuestasRelacionadasRef": "http://www.rtve.es/api/noticias/1737401/encuestas/relacionadas",
-          "encuestasTotemRef": "http://www.rtve.es/api/noticias/1737401/encuestas/totem",
-          "comentariosRef": "http://www.rtve.es/api/noticias/1737401/comentarios",
-          "tagsRef": "http://www.rtve.es/api/noticias/1737401/tags",
-          "estadisticasRef": "http://www.rtve.es/api/noticias/1737401/estadisticas"
+    
+
         },
         "image": "http://img2.rtve.es/imagenes/san-juan-bautista-paisaje-juan-bautista-maino-1581-1649-oleo-sobre-cobre-bano-plata-1610-madrid-museo-nacional-del-prado/1526904759343.jpg",
         "commentOptions": null,
@@ -733,46 +77,7 @@
         "relatedByLangRef": "http://www.rtve.es/api/noticias/1737401/relacionados/relacionados-por-idioma",
         "title": "El Museo del Prado expone tres nuevas obras de Maíno, Fosman y Paret"
       },
-      {
-        "uri": "http://www.rtve.es/api/noticias/1737363",
-        "htmlUrl": "http://www.rtve.es/television/20180521/receta-pincho-moruno/1737363.shtml",
-        "htmlShortUrl": "http://rtve.es/n/1737363",
-        "id": "1737363",
-        "language": "es",
-        "longTitle": "Pincho moruno",
-        "shortTitle": null,
-        "mainCategoryRef": "http://www.rtve.es/api/tematicas/90495",
-        "popularity": "40.7248",
-        "popHistoric": "40.7248",
-        "numVisits": "126",
-        "publicationDate": "21-05-2018 13:55:00",
-        "expirationDate": null,
-        "modificationDate": "21-05-2018 14:01:00",
-        "pubState": {
-          "code": "ENPUB",
-          "description": "En publicación"
-        },
-        "breadCrumbRef": "http://www.rtve.es/api/noticias/1737363/breadcrumb",
-        "imageSEO": "http://img2.rtve.es/n/receta-pincho-moruno_1737363.png",
-        "publicationDateTimestamp": 1526903700000,
-        "contentType": "noticia",
-        "statistics": {
-          "numComentarios": 0,
-          "numCompartidas": 0
-        },
-        "anteTitle": null,
-        "frontTitle": null,
-        "tabTitle": null,
-        "ticker": {
-          "tickerSports": false,
-          "tickerNews": false
-        },
-        "essentialInfo": {
-          "info": null,
-          "photo": null
-        },
-        "summary": "<ul>\n\t<li>Los gemelos Torres, &quot;pincho moruno&quot;</li>\n\t<li>Recetas: &quot;bomba de Torta del Casar y pincho moruno&quot;</li>\n\t<li>Consulta todas las&nbsp;<a href=\"http://www.rtve.es/television/recetas/\" target=\"_blank\">recetas de RTVE.es</a></li>\n</ul>\n",
-        "frontSummary": null,
+      
         "text": "<p>La cocina puede transportarnos a casa y a los sabores de siempre. Los hermanos Torres apuestan hoy por comida confortable con estas dos recetas:&nbsp;<a href=\"http://www.rtve.es/n/1737362\"><strong>bomba de Torta del Casar</strong></a>&nbsp;y&nbsp;<strong>pincho moruno</strong>.</p>\n\n<table class=\"recetasGen pescado\" sumary=\"Cómo preparar Pincho moruno\" typeof=\"Recipe\" vocab=\"http://schema.org/\">\n\t<caption><span property=\"name\">Pincho moruno</span><span class=\"hddn\" property=\"description\">Pincho moruno</span><span class=\"hddn\" property=\"recipeCategory\">pescado</span></caption>\n\t<thead>\n\t\t<tr>\n\t\t\t<th id=\"ingredientes\">Ingredientes</th>\n\t\t\t<th id=\"preparacion\">Preparaci&oacute;n</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td headers=\"ingredientes\">\n\t\t\t<ul>\n\t\t\t\t<li property=\"ingredients\">0&rsquo;5 kg. at&uacute;n</li>\n\t\t\t\t<li property=\"ingredients\">1 c/p piment&oacute;n</li>\n\t\t\t\t<li property=\"ingredients\">unas hebras azafr&aacute;n</li>\n\t\t\t\t<li property=\"ingredients\">1 c/p curry</li>\n\t\t\t\t<li property=\"ingredients\">1 c/p canela</li>\n\t\t\t\t<li property=\"ingredients\">1 c/p comino</li>\n\t\t\t\t<li property=\"ingredients\">1 c/p cebolla en polvo</li>\n\t\t\t\t<li property=\"ingredients\">1 c/p ajo en polvo</li>\n\t\t\t\t<li property=\"ingredients\">1/2 lima</li>\n\t\t\t\t<li property=\"ingredients\">aove, sal, pimienta</li>\n\t\t\t\t<li property=\"ingredients\">Para el alioli de ajos tiernos:</li>\n\t\t\t\t<li property=\"ingredients\">4 ajos tiernos</li>\n\t\t\t\t<li property=\"ingredients\">1 huevo</li>\n\t\t\t</ul>\n\t\t\t</td>\n\t\t\t<td headers=\"preparacion\">\n\t\t\t<ol>\n\t\t\t\t<li property=\"recipeInstructions\">Macerar el pescado. Cortar el at&uacute;n a dados grandes y poner en un recipiente de vidrio. A&ntilde;adir las especias: piment&oacute;n, azafr&aacute;n, curry, canela, comino, cebolla y ajo en polvo. Agregar el zumo de lima, aceite, sal y pimienta. Macerar en la nevera unas 12 horas.</li>\n\t\t\t\t<li property=\"recipeInstructions\">Marcar el pescado. Retirar el at&uacute;n del macerado. Ensartar los dados en las brochetas. Marcar las brochetas a la plancha por todos los lados. Reservar.</li>\n\t\t\t\t<li property=\"recipeInstructions\">El alioli de ajos tiernos. Cortar los ajos tiernos y saltear en una sart&eacute;n con aceite. Escurrir. Pasar los ajos tiernos al vaso de la batidora junto con el aceite de saltear, el huevo y un poco m&aacute;s de aceite de oliva. Emulsionar hasta tener una textura de alioli.</li>\n\t\t\t\t<li property=\"recipeInstructions\">Poner un punto de alioli sobre cada dado de pescado y servir con alguna hierba fresca arom&aacute;tica al gusto.</li>\n\t\t\t</ol>\n\t\t\t</td>\n\t\t</tr>\n\t</tbody>\n</table>\n\n<h2 class=\"ladillo\">Informaci&oacute;n nutricional</h2>\n\n<p>Receta apta para:</p>\n\n<ul>\n\t<li><strong>Intolerantes gluten NO</strong></li>\n\t<li><strong>Intolerantes lactosa SI</strong></li>\n\t<li><strong>Vegetarianos SI</strong></li>\n\t<li><strong>Veganos NO</strong></li>\n</ul>\n\n<p></p>\n\n<h2 class=\"ladillo\">Conectados contigo</h2>\n\n<div class=\"cartela\">\n<p>Si quieres mandarnos tus comentarios o sugerencias puedes enviarnos un correo:&nbsp;<strong>torresenlacocina@rtve.es&nbsp;</strong></p>\n\n<p>Tambi&eacute;n puedes comunicarte con nosotros en las redes sociales:</p>\n\n<ul>\n\t<li>Twitter:&nbsp;<a href=\"https://twitter.com/torrescocinatve\" target=\"_blank\">#TorresCocina</a></li>\n\t<li><a href=\"https://www.facebook.com/torresenlacocina?fref=photo\" target=\"_blank\">Facebook</a></li>\n\t<li><a href=\"https://instagram.com/torresenlacocinatve/\" target=\"_blank\">Instagram</a></li>\n\t<li><a href=\"https://es.pinterest.com/TorresCocina/\" target=\"_blank\">Pinterest</a></li>\n</ul>\n</div>\n",
         "refreshSeconds": 0,
         "sign": {

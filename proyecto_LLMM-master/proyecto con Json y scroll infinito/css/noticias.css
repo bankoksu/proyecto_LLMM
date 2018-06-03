@@ -1,5 +1,5 @@
-*{
-	width: 10%;
+/**{
+	width: 70%;
 	background-color: grey;
 
 }
@@ -8,4 +8,166 @@
 	display: inline;
 	background-color: green;
 	text-decoration: none;
+}
+*/
+
+
+#nopubli{
+	width: 70%;
+
+}
+body{
+	font-family: sans-serif;
+}
+
+#publi
+{
+	float: right;
+	padding-left: 0;
+	width: 30% ;
+	height: 100%;
+	position: relative;
+
+}
+
+#main-header {
+	background: #333;
+	color: white;
+	height: 80px;
+}	
+	#main-header a {
+		color: white;
+	}
+ 
+/*
+ * Logo
+ */
+#logo-header {
+	float: left;
+	padding: 15px 0 0 20px;
+	text-decoration: none;
+}
+	#logo-header:hover {
+		color: #0b76a6;
+	}
+	
+	#logo-header .site-name {
+		display: inline-block;
+		font-weight: 700;
+		font-size: 1.2em;
+	}
+	
+	#logo-header .site-desc {
+		display: block;
+		font-weight: 300;
+		font-size: 0.8em;
+		color: #999;
+	}
+	
+ 
+/*
+ * Navegación
+ */
+nav {
+	float: right;
+}
+	nav ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		padding-right: 20px;
+	}
+	
+		nav ul li {
+			display: inline-block;
+			line-height: 80px;
+		}
+			
+			nav ul li a {
+				display: block;
+				padding: 0 10px;
+				text-decoration: none;
+			}
+			
+				nav ul li a:hover {
+					background: #0b76a6;
+				}
+
+
+
+
+
+
+.imagen {
+	width: 45%;
+	height: width;
+
+}
+
+
+.redes a{ 
+    background-image     : url(http://4.bp.blogspot.com/-fE6jY2sCjhE/TmjsS516Q8I/AAAAAAAACOc/pVUNDOgiw8Q/s1600/redes.png); 
+    background-color      : transparent; 
+    background-repeat    : no-repeat; 
+    height                        : 48px; 
+    width                        : 48px;
+    float                          : left;
+    display                      : block;
+    margin                       : 0 5px 0 0;
+ } 
+
+
+ #google { 
+    background-position  : -240px -48px; 
+ } 
+
+ #google:hover { 
+    background-position  : -240px 0px; 
+ } 
+
+ #facebook { 
+    background-position  : -48px -48px; 
+ } 
+
+ #facebook:hover { 
+    background-position  : -48px 0px; 
+ } 
+
+ #twitter { 
+    background-position  : -144px -48px; 
+ } 
+
+ #twitter:hover { 
+    background-position  : -144px 0px; 
+ } 
+
+ #youtube { 
+    background-position  : -96px -48px; 
+ } 
+
+ #youtube:hover { 
+    background-position  : -96px 0px; 
+ } 
+
+
+
+
+
+ @media only screen and (max-width: 768px) {
+    /*For mobile phones: */
+   /* [class*="col-"]*/ {	
+    width: 100%;
+    }
+
+
+.redes{
+	display: none;
+}
+.imagen{
+	width: 100px;
+	height: 80px;
+}
+
+#video{
+	display: none;
 }
