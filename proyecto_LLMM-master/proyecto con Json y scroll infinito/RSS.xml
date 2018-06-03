@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<!-- segun entendí esto se usa para tener un resumen de la info que se entrega, no agrego más porqué
+el lector de json no funciona de ni una manera -->
+
+<channel>
+  <title>Noticias sobre el mundo natural</title>
+  <link>./noticias.html</link>
+  <description>información sobre personas que ayudan a la causa de proteger el medio ambiente o historias curiosas de animales</description>
+  <item>
+    <title>Heinz Sielmann, el ‘señor pájaro carpintero’ que solo cazaba animales con su cámara</title>
+    <link>./noticias.html</link>
+    <fecha>2 JUN 2018</fecha>
+    <description>Heinz Sielmann admiraba el contacto de su padre por la naturaleza, pero en lugar de aficionarse con una caña de pescar o un rifle, como su progenitor, se dedicó a perseguir animales con unos simples prismáticos.</description>
+  </item>
+  <item>
+    <title>El civismo de las mangostas enanas</title>
+    <link>./noticias.html</link>
+    <fecha>29 MAY 2018</fecha>
+    <description>Cooperar significa "obrar juntamente con otro u otros para la consecución de un fin común", según la RAE. El concepto no es exclusivo de los humanos; también otras especies animales, como la mangosta enana (Helogale parvula)</description>
+  </item>
+  <item>
+    <title>Bruselas quiere prohibir la venta de pajitas, platos y cubiertos de plástico</title>
+    <link>./noticias.html</link>
+    <fecha>Bruselas / Madrid 28 MAY 2018</fecha>
+    <description>La Comisión Europea ha presentado un plan para acabar con la contaminación que provocan.</description>
+  </item>
+</channel>
+
+</rss>
