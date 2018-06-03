@@ -106,6 +106,7 @@ nav {
 
 
 .redes a{ 
+	float: center;
     background-image     : url(http://4.bp.blogspot.com/-fE6jY2sCjhE/TmjsS516Q8I/AAAAAAAACOc/pVUNDOgiw8Q/s1600/redes.png); 
     background-color      : transparent; 
     background-repeat    : no-repeat; 
@@ -170,4 +171,16 @@ nav {
 
 #video{
 	display: none;
+}
+
+#publi{
+	float: left;
+	display: block;
+	width: 100%;
+}
+
+#nopubli{
+	float: left;
+	display: block;
+	width: 100%;
 }
