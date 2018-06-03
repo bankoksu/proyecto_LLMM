@@ -12,12 +12,17 @@
 */
 
 
-#nopubli{
+.nopubli{
 	width: 70%;
 
 }
 body{
 	font-family: sans-serif;
+}
+
+#video{
+	width: 30% ;  
+	height:200px ;
 }
 
 #publi
@@ -170,7 +175,8 @@ nav {
 }
 
 #video{
-	display: none;
+	width: 30%;
+	height: 20%;
 }
 
 #publi{
