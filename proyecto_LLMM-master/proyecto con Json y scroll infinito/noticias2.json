@@ -1,18 +1,45 @@
 [
 { 
-"titulo":"contenido de la misma alsdfagfgfdgfdgfdsasdf",
-"texto":"primera noticia con su titulo"
+"titulo": "Detectan un lince ibérico en el área metropolitana de Barcelona por primera vez en dos siglos",
+"img": "./noticiajson1.jpg",
+"fecha":"1 JUN. 2018",
+"texto": "Más de un siglo ha tardado el Lince Ibérico en dejarse ver en Cataluña. El último, hasta que el pasado 29 de mayo miembros de Agents Rurals detectasen un ejemplar de esta especie en peligro de extinción en la zona metropolitana de Barcelona, fue avistado a principios de siglo XX. El descubrimiento fue posible gracias a un operativo de búsqueda iniciado por el servicio de Fauna i Flora de la Generalitat, después de que recibiesen diversos avisos de la presencia de un lince ibérico, del latín Lynx pardinu en la zona."
 
 },
 {
-"titulo":"asdfasfasdsdadafasdfasdjnhsfgjjukikfykujk",
-"texto":"segunda noticia con su titulo"
+"titulo": "Mutualismos, la clave de la biodiversidad",
+"img": "./noticiajson2.jpg",
+"fecha":"31 MAR. 2018 ",
+"texto": "En los últimos años se han disparado todas las alarmas por la disminución de polinizadores, aproximadamente el 80 % de las plantas con flor son polinizadas por animales, destacando los insectos como principales agentes a la hora de desempeñar esta labor. El declive de las poblaciones de numerosas especies de fauna invertebrada ha comenzado a preocuparnos cuando hemos visto que nuestro suministro alimenticio podría estar en peligro y que ese servicio ecológico, hasta ahora abundante y gratuito, está en riesgo. Más allá del problema evidente de que un colapso de polinizadores afectaría a muchos de los principales cultivos de frutas y verduras del planeta, está la pérdida global de biodiversidad, aunque el escaso interés mostrado por muchas especies que no se han considerado relevantes, no juega en su favor y, actualmente, desconocemos realmente qué papel desempeñan en muchos procesos ecológicos."
+
+},
+
+{
+"titulo": "Fallece la osa Tola, símbolo de la recuperación del oso pardo en España",
+"img": "./noticiajson4.jpg",
+"fecha":"19 ENE. 2018",
+"texto": "El ejemplar de oso pardo cantábrico Tola ha fallecido este jueves en el cercado asturiano de Santo Adriano en el que vivía en cautividad junto a su hermana Paca, según han confirmado fuentes de la instalación. Ambos ejemplares se convirtieron en un icono de la recuperación del oso pardo cantábrico, en peligro de extinción. De hecho, el cercado se inauguró en el año 1996, ante la necesidad de buscar un lugar para albergar a Paca y a Tola. Fueron rescatadas en 1989 de los cazadores furtivos que habían matado a su madre y era imposible reintroducirlas en el medio natural, ya que estaban habituadas a la presencia humana. Una vez rescatadas, fueron entregadas con cinco meses de vida al Fondo Asturiano para la Protección de los Animales Salvajes (Fapas). A partir de entonces, vivieron primero en distintas instalaciones en Cataluña y El Hosquillo (Cuenca), hasta que en 1996 fue habilitado en Santo Adriano el cercado que era su hábitat actual, donde vivían en régimen de semilibertad al constatarse la imposibilidad de reintroducirlas en el medio natural, ya que estaban habituadas a la presencia humana."
 
 },
 {
-"titulo":"asdasdasdasdadsasd",
-"texto":"pruebas pruebas"
+"titulo": "Batalla por la ampliación de las Zonas de Especial Protección para las Aves",
+"img": "./noticiajson5.jpg",
+"fecha":"9 MAR. 2018",
+"texto": "La ampliación de las Zonas de Especial Protección para las Aves (ZEPA) en 12.000 hectáreas que tramita el Govern enfrenta a agricultores y otros representantes del mundo rural con los grupos ecologistas, que espolean a la Conselleria de Medio Ambiente y llaman a proteger el territorio como «garantía de futuro del verdadero mundo rural» en medio de unos días de movilizaciones ciudadanas en los que el debate sobre la iniciativa autonómica también ha tenido su propia porción de protagonismo en las calles.Cazadores, caballistas, cetreros y otros colectivos convocados por la Plataforma en Defensa del Mundo Rural se manifestaron la pasada semana en las principales vías de Palma a modo de denuncia contra las políticas de la conselleria que dirige Vicenç Vidal, con la ampliación de las ZEPA como eje de la protesta. Una movilización que, según opina el Grup Balear d'Ornitologia i Defensa de la Naturalesa (GOB), solo puede entenderse «desde la desinformación, la manipulación informativa, la politización y la defensa de unos intereses estrictamente personales que nada tienen que ver con la conservación del patrimonio natural y rural».El GOB trazaba de esta manera una línea entre los manifestantes -7.000 según la organización, 3.600 según Delegación de Gobierno- y los representantes del «verdadero mundo rural», el cual también integra a colectivos como los cazadores, que, defienden los ecologistas, también se verían beneficiados por la protección territorial. «La declaración de un territorio como ZEPA es precisamente la mejor garantía para el mantenimiento de la actividad cinegética», argumentan desde el GOB. Según la tesis ecologista, «estas zonas protegidas pretenden el mantenimiento de las condiciones ecológicas necesarias para las aves, condiciones que igualmente favorecen la presencia de especies cazables»."
 
+},
+{
+"titulo": "Los exóticos habitantes de Baleares",
+"img": "./noticiajson6.jpg",
+"fecha":"13 ENE. 2018",
+"texto": "A diario, numerosas especies de animales, plantas y microorganismos son transportados por todo el planeta, llegando a nuevas áreas, a menudo distantes. Periódicamente y cada vez con más frecuencia, saltan las alarmas porque algunas de estas especies exóticas no solo sobreviven, sino que proliferan y se dispersan, naturalizándose y convirtiéndose en invasoras. Este fenómeno, que se ha disparado en las últimas décadas, representa una de las principales amenazas para la biodiversidad, además de generar serios problemas para la salud humana y cuantiosas pérdidas económicas. El Mediterráneo es el mar más invadido del mundo, su situación geográfica y la tropicalización de sus aguas lo convierten en un espacio vulnerable a las invasiones biológicas, pero éstas no llegan solo a través del medio marino, por tierra y por aire también llegan numerosas especies exóticas y Baleares no está libre del fenómeno. Al mosquito tigre (Aedes albopictus), la avispa asiática (Vespa velutina), la mariposa perforadora del palmito (Paysandisia arcón), las culebras de herradura y de escalera, el alga Caulerpa cylindracea o el picudo rojo (Rhynchophorus ferrugineus), se ha unido recientemente la bacteria patógena Xylella fastidiosa. En las dos últimas décadas las Islas han sufrido el impacto de especies foráneas que están causando graves perjuicios, en unos casos porque ponen en peligro la supervivencia de las nativas y en otros porque son agentes de plagas o vectores de enfermedades. Pero ¿cuáles son sus vías de llegada?Desde su apertura, en 1869, el Canal de Suez ha sido un coladero de especies exóticas, la ruptura de esta barrera geográfica ha puesto en contacto el Indo-Pacífico con el Mediterráneo a través del Mar Rojo y por esta vía marítima nuevos organismos han llegado a nuestras aguas. En épocas recientes las introducciones se han incrementado considerablemente por la ampliación del canal y el riesgo de invasiones es mayor en un Mediterráneo cada vez más caliente."
+
+},
+{
+	"titulo": "",
+	"img": "",
+	"fecha":"",
+	"texto": ""
 }
 
 ]
