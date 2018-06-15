@@ -1,21 +1,19 @@
-/*$(document).ready(function() {
-      // use esta configuracion simple para valores por defecto
-      //$('div.expandable p').expander();
-      // *** O ***
-      // configure de la siguiente manera
-      $('div.expandable p').expander({
-      slicePoint: 80, // si eliminamos por defecto es 100 caracteres
-      expandText: '[...]', // por defecto es 'read more...'
-      collapseTimer: 5000, // tiempo de para cerrar la expanción si desea poner 0 para no cerrar
-      userCollapseText: '[^]' // por defecto es 'read less...'
-    });
-  });*/
+$(document).ready(function() {
+  $("#boton").on("click",function(){
+    $("#boton").hide();
+    console.log("estoy empezando esto");  
+      $.getJSON( "./noticias2.json", function( jsonObject ) {
+      //en aquest punt l'objecte jsonObject correspon al fitxer
+      console.log(jsonObject);
+      pintar( jsonObject );
 
+    function pintar(json){
+    $.each( json, function( i, empleado ) {
+      $("#agregador").append("<h2>"+empleado.titulo+"<h2>");
+      $("#agregador").append("<p>"+empleado.fecha+"</p>");
+      $("#agregador").append("<img class='img-fluid float-left img-thumbnail mr-4' src='" + empleado.img + "'>");
+      $("#agregador").append("<p>"+empleado.texto+"</p>");
 
-$(document).ready(function(){   
-  $(".more").toggle(function() {
-      $(this).text("Leer menos...").siblings(".complete").show();
-  }, function() {
-      $(this).text("Leer mas...").siblings(".complete").hide();
-  }); 
-});
+  })};
+})}
+ )})
